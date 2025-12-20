@@ -1,0 +1,3577 @@
+Top nav (simple, high converting)
+Home
+
+
+Services (dropdown)
+
+
+Fees (optional but powerful if the client is price-competitive)
+
+
+Resources (dropdown)
+
+
+About
+
+
+Contact
+ Primary CTA button: Open Escrow
+
+
+This mirrors the “Services + About + Resources + Open Escrow” pattern you see in Inland Empire Escrow’s navigation. Inland Empire Escrow
+
+Pages you need (core)
+1) Home
+Goal: immediate trust + clear transaction types + push to Open Escrow.
+Hero section
+Headline (pick one style):
+
+
+“Escrow services built for on-time closings.”
+
+
+“Independent escrow for residential and commercial transactions.”
+
+
+Subheadline (1–2 lines):
+
+
+“Clear communication, secure handling of funds and documents, and a process that keeps every party aligned from opening to close.”
+
+
+Primary CTA: Open Escrow
+
+
+Secondary CTA: Call [phone] / Contact Us
+
+
+Trust bar (small row under hero)
+“Licensed & bonded” (only if true)
+
+
+“Secure document handling”
+
+
+“Local team, fast response”
+
+
+“Serving [counties/cities]”
+
+
+Services preview (tiles)
+ Use 6–9 tiles max (don’t dump 15 on the homepage):
+Residential Purchase / Sale
+
+
+Refinance
+
+
+Commercial
+
+
+1031 Exchange
+
+
+Probate (if offered)
+
+
+Holding / Personal Property (if offered)
+
+
+Mobile/Manufactured Homes (if offered)
+
+
+REO (if offered)
+
+
+Business/Bulk Sale (if offered)
+
+
+Inland Empire Escrow lists a broad menu like this under Services. Inland Empire Escrow
+“What sets us apart” section
+ 3–5 bullets (short, concrete):
+“Proactive communication with buyers, sellers, agents, and lenders”
+
+
+“Clear timelines and document tracking”
+
+
+“Experienced escrow officers and specialized transaction support”
+
+
+“Secure handling of funds and sensitive documents”
+
+
+“Transparent fees (no surprise add-ons)” (only if true)
+
+
+This matches the “What Sets Us Apart” emphasis on the Inland Empire homepage. Inland Empire Escrow
+Process preview
+ A 5-step strip:
+Open escrow
+
+
+Gather instructions + order payoff/title items
+
+
+Review conditions + collect signatures
+
+
+Clear contingencies + coordinate funding
+
+
+Record + disburse + close
+
+
+(They both educate users about the escrow process; Inland Empire even offers “Escrow 101.” Inland Empire Escrow)
+Testimonials
+ 3–6 short testimonials (name can be “Buyer/Seller – City”). Inland Empire uses this format heavily. Inland Empire Escrow
+Locations preview
+ If they have multiple offices: show cards.
+ If not: show one office + “serving” list.
+Final CTA band
+“Ready to open escrow?” + Open Escrow button
+
+
+
+2) Services hub page (landing page)
+Goal: help users self-select quickly and route them to the right service page.
+Layout
+Intro: “We handle a wide range of escrow transactions across [region].”
+
+
+A grid of service categories (each links to its own page)
+
+
+A “Not sure?” box: “Call us, we’ll route you.”
+
+
+
+3) Individual service pages (you need these for SEO + credibility)
+Create one template and reuse it for each service.
+Service page template
+What it is (2–3 sentences)
+
+
+Who it’s for (bullets)
+
+
+What we handle (bullets)
+
+
+What you’ll need (bullets; keep it general)
+
+
+Typical timeline (simple, non-promising language)
+
+
+Common questions (3–5 FAQs)
+
+
+CTA: Open Escrow + Contact
+
+
+Recommended service pages (based on Inland Empire’s list)
+Residential Escrow Inland Empire Escrow
+
+
+Commercial & Industrial Inland Empire Escrow+1
+
+
+1031 Exchange Inland Empire Escrow
+
+
+Probate Escrow Inland Empire Escrow
+
+
+Holding Escrow / Personal Property Inland Empire Escrow
+
+
+REO Inland Empire Escrow
+
+
+Short Sale Inland Empire Escrow
+
+
+Mobile / Manufactured Home (only if your client truly offers this) Inland Empire Escrow+1
+
+
+Bulk / Business Sale (if offered) Inland Empire Escrow
+
+
+Agricultural (if offered) Inland Empire Escrow
+
+
+Don’t publish pages for services they don’t actually do.
+
+4) Fees page (optional, but clients love it)
+Inland Empire Escrow makes fees a top nav item and pushes “no garbage fees.” Inland Empire Escrow+1
+What to include
+Short intro about transparent pricing
+
+
+Fee structure:
+
+
+Option A: “Flat fee by transaction type”
+
+
+Option B: “Fee schedule” (table)
+
+
+Option C: “Request a quote” (if they won’t publish numbers)
+
+
+“What’s included” bullets
+
+
+“What we don’t charge for” list (only if true)
+
+
+Disclaimer: fees can vary by transaction complexity/requirements
+
+
+
+5) Open Escrow page (this should be built like a conversion form)
+Both sites emphasize “Open Escrow.” Inland Empire Escrow+1
+Above the form: what happens next
+“We review your submission”
+
+
+“We confirm parties + property + timelines”
+
+
+“We send initial instructions and next steps”
+
+
+Form fields (keep it escrow-realistic)
+Transaction type (dropdown)
+
+
+Property address
+
+
+County / City
+
+
+Purchase price (optional)
+
+
+Close date target (optional)
+
+
+Buyer name + email + phone
+
+
+Seller name + email + phone (optional)
+
+
+Agent info (optional)
+
+
+Lender info (optional)
+
+
+File upload (optional: contract, counter offers)
+
+
+Preferred contact method
+
+
+Notes box
+
+
+Consent checkbox (for communications)
+
+
+Security note (short)
+“Do not email wiring instructions. We verify wiring instructions by phone.”
+ (That’s a common escrow safety practice; keep it simple.)
+
+
+
+6) Locations page
+Inland Empire has multiple offices and lists them prominently. Inland Empire Escrow+1
+Include
+Office cards:
+
+
+Address
+
+
+Phone
+
+
+Fax (if used)
+
+
+Hours
+
+
+Service area blurb
+
+
+Embedded map
+
+
+Parking / signing appointment notes
+
+
+CTA: “Schedule a signing” / “Contact”
+
+
+If the client has only one office, still keep the page. It’s a trust signal.
+
+7) About page
+Goal: human trust + legitimacy.
+Sections
+“Who we are” (short, plain)
+
+
+“Our approach” (accuracy, communication, security, timelines)
+
+
+“Licensing & compliance” (only factual statements)
+
+
+Team section:
+
+
+Name, title, short bio (2–3 sentences)
+
+
+Community / giving back (optional)
+ Inland Empire includes history, leadership, and “core values.” Inland Empire Escrow+1
+
+
+
+8) Why [Company] page (optional but strong)
+Inland Empire has “Why Inland Empire Escrow” and “Why Independent Escrow.” Inland Empire Escrow+1
+If you include this, make it factual and non-slanderous.
+Page content
+“Why choose an independent escrow company?” (general benefits)
+
+
+“How we reduce friction” (process, communication, specialists)
+
+
+“How we protect clients” (verification steps, secure process)
+
+
+CTA
+
+
+
+9) Contact page
+Include
+Simple form
+
+
+Phones, emails, hours
+
+
+Office list (or link to Locations)
+
+
+Map embed
+
+
+After-hours expectations (“messages returned next business day”)
+
+
+
+Resources section (this is what makes the site feel “premium”)
+Inland Empire has a full Resources dropdown (ways to hold title, property taxes, life of an escrow, forms, FAQs, links, glossary). Inland Empire Escrow+2Inland Empire Escrow+2
+You don’t have to build all of it on day one, but the menu should exist.
+10) FAQ page
+Include 10–15 FAQs.
+ Start with:
+What is escrow?
+
+
+Who pays escrow fees?
+
+
+How long does escrow take?
+
+
+What do I bring to signing?
+
+
+How do wire instructions work safely?
+
+
+What happens if something changes (repairs/credits/addenda)?
+
+
+Inland Empire’s FAQ page explains escrow duties and fee questions; use that as inspiration, but write original copy. Inland Empire Escrow
+11) Glossary page
+20–40 terms, short definitions:
+Beneficiary demand, payoff, proration, grant deed, recording, preliminary title report, escrow instructions, etc.
+
+
+12) Forms / Downloads page
+Wire authorization form (if they use one)
+
+
+Identification requirements (if they have a doc)
+
+
+“Buyer/Seller checklist” PDFs
+ (Only publish what they actually use.)
+
+
+13) “Life of an Escrow” / “Escrow 101” page
+This is your educational anchor page:
+Step-by-step explanation
+
+
+Simple timeline graphic
+
+
+“What we do vs what lender/title/agents do”
+
+
+Inland Empire promotes “Escrow 101.” Inland Empire Escrow
+14) Links / Helpful resources page
+Link out to:
+County recorder offices
+
+
+Property tax info
+
+
+IRS 1031 info (if they offer 1031)
+ Inland Empire has an “Escrow related resources” links page. Inland Empire Escrow
+
+
+15) Blog (optional)
+If they won’t maintain it, don’t ship a dead blog. If they will, start with 6 posts:
+“Escrow timeline: what delays closings”
+
+
+“How to avoid wire fraud in real estate”
+
+
+“What buyers bring to signing”
+
+
+“What is a 1031 exchange?”
+
+
+“Probate escrow basics”
+
+
+“What to expect in a refinance escrow”
+
+
+
+Legal/utility pages you should include (non-negotiable)
+Even Escrow of the West exposes privacy/terms pages. escrowofthewest.com+1
+Privacy Policy
+
+
+Terms of Use
+
+
+Accessibility Statement (recommended)
+
+
+Cookie notice (if you use tracking cookies)
+
+
+Sitemap (HTML)
+
+
+
+Optional “SEO booster” pages (only if budget allows)
+Inland Empire has many city/service pages like “Escrow service in Corona” etc. Inland Empire Escrow+1
+If you do these, do them properly (unique copy, real office relevance, real service area):
+“Escrow Services in [City]”
+
+
+“Commercial Escrow in [City]”
+
+
+“Mobile Home Escrow in [City]” (only if offered)
+
+
+Don’t spam 50 thin pages. Better: 8–12 high-quality pages for core cities.
+
+Content you should ask the client for (so you don’t invent facts)
+You’ll need this list to finalize copy:
+Official business name + licensing statement they want used (exact wording)
+
+
+Office addresses, phones, hours
+
+
+Service area (counties/cities)
+
+
+Exact service offerings (pick from the Services list)
+
+
+Fee approach (publish vs quote)
+
+
+Team names/titles/headshots + 2–3 sentence bios
+
+
+Testimonials (or permission to embed from Google/Yelp)
+
+
+Any PDFs they want hosted (checklists, ID requirements, etc.)
+
+
+Preferred CTAs (Call, Open Escrow, Request Quote)
+
+
+
+How to map your palette to the site (quick, practical)
+Navy (#0B2C3D): header/nav, footer, section headers, primary text accents
+
+
+Gold (#C9A24D): CTA buttons, icon accents, underline/hover states
+
+
+Light gray (#F2F4F6): background blocks to separate sections
+
+
+White: card backgrounds, content areas
+
+
+This palette fits escrow branding (formal, trust-heavy) without looking like a law firm.
+
+
+
+
+
+List of pages:
+
+Home (done)
+
+
+Services hub
+
+
+Open Escrow (form page)
+
+
+Contact
+
+
+About
+
+
+Fees
+
+
+FAQ
+
+
+Escrow 101
+
+
+Forms/Downloads
+
+
+Privacy + Terms
+
+PAGE 1 — HOME (paste-ready spec for Stitch AI)
+
+Page purpose
+Build trust fast, show what you do, and push users to Open Escrow or Call.
+URL
+/
+SEO (for Stitch fields)
+Meta title: [Company Name] | Escrow Services in [Region]
+
+
+Meta description: Secure, responsive escrow services for residential, refinance, and commercial transactions across [Region]. Open escrow online or contact our team today.
+
+
+Primary keywords: escrow company [region], open escrow [city], residential escrow, refinance escrow, commercial escrow
+
+
+OG title: same as meta title
+
+
+OG description: same as meta description
+
+
+
+1) Header / Navigation
+Top bar (optional, small):
+Left: Serving [City/Region]
+
+
+Right: [Phone] | [Email]
+
+
+Main nav:
+Home
+
+
+Services (dropdown)
+
+
+Fees (optional)
+
+
+Resources (dropdown)
+
+
+About
+
+
+Contact
+ Primary nav button (gold): Open Escrow
+
+
+
+2) Hero section (above the fold)
+Layout: left text + right image (office / handshake / keys / escrow paperwork).
+ Background: White or Light Gray.
+H1 headline (choose one)
+ Option A:
+Escrow services built for smooth, on-time closings.
+
+
+Option B:
+Independent escrow for residential and commercial transactions.
+
+
+Subheadline (1–2 lines)
+Clear communication. Secure handling of documents and funds. A process that keeps every party aligned from opening to close.
+
+
+Primary CTA button: Open Escrow
+ Secondary CTA: Call [Phone]
+Micro trust line under CTAs
+Have a question? Talk to an escrow officer — we respond quickly during business hours.
+
+
+Hero image guidance
+Avoid cheesy stock. Use: “professional team at desk”, “signing documents”, “office building exterior”, “hands reviewing closing documents”.
+
+
+If no custom photos yet, use clean neutral stock.
+
+
+
+3) Trust bar (4 compact items)
+Design: 4 icons + 1-line text each (no paragraphs).
+Secure handling of sensitive documents
+
+
+Proactive communication with all parties
+
+
+Experienced escrow support
+
+
+Serving [Region] with local expertise
+
+
+(Only mention “licensed” or “bonded” if it’s 100% true.)
+
+4) Services preview (cards grid)
+Heading: Escrow services we handle
+ Subtext: Choose a transaction type below, or open escrow and we’ll route your file to the right team.
+Service cards (use 6–9 max on Home)
+ Each card: Title + 1 sentence + link to its page.
+Residential Purchase & Sale
+ Escrow support for standard home transactions, including coordination, documents, and closing steps.
+ Link: /services/residential
+
+
+Refinance Escrow
+ Efficient refinance processing with clear tracking of lender conditions and funding.
+ Link: /services/refinance
+
+
+Commercial Escrow
+ Structured escrow for commercial deals, tailored to transaction complexity and timelines.
+ Link: /services/commercial
+
+
+1031 Exchange
+ Time-sensitive exchange transactions handled with careful coordination and documentation.
+ Link: /services/1031-exchange
+
+
+Probate Escrow
+ Escrow support for probate-related property transfers, with attention to required documents.
+ Link: /services/probate
+
+
+Holding Escrow (if offered)
+ Neutral third-party holding of funds/documents when conditions must be satisfied before release.
+ Link: /services/holding-escrow
+
+
+Small text below grid
+Don’t see your transaction type? Contact us — we’ll confirm what we can support.
+
+
+
+5) “Why [Company Name]” section (trust + differentiation)
+Heading: What you can expect from us
+ Format: bullets (keep it tight, no fluff)
+Clear, consistent updates so no one is guessing what’s next
+
+
+A structured process that reduces delays and last-minute surprises
+
+
+Secure handling of documents, instructions, and sensitive information
+
+
+Professional coordination with buyers, sellers, agents, lenders, and other parties
+
+
+A team that takes deadlines seriously
+
+
+Optional short paragraph
+Every transaction is different — but our goal stays the same: keep the file moving, keep communication clear, and close with confidence.
+
+
+
+6) Process / timeline preview
+Heading: How escrow typically works
+ Subtext: A simple overview of the common steps from opening to close.
+5-step horizontal or vertical timeline
+Open escrow
+ Submit basic transaction details and contact info for the parties involved.
+
+
+Confirm instructions
+ We review the file, confirm parties, and outline next steps.
+
+
+Collect documents & approvals
+ We coordinate required documents, signatures, and conditions.
+
+
+Funding & final review
+ We confirm funding requirements and prepare for close.
+
+
+Close & disburse
+ Recording/disbursement steps are completed based on the transaction type and instructions.
+
+
+CTA under timeline: Open Escrow
+
+7) Wire fraud / security notice (small but important)
+Design: a bordered box, not scary, just firm.
+Heading: Important security notice
+ Copy:
+Wire fraud is a real risk in real estate transactions. Always verify wiring instructions using a trusted phone number before sending funds.
+
+
+Do not rely on wiring changes sent by email or text.
+
+
+(Short, professional, not alarmist.)
+
+8) Testimonials section
+Heading: Trusted by buyers, sellers, and agents
+ Subtext: Here’s what clients say about working with our team.
+3–6 testimonial cards
+ Use placeholders until you get real ones:
+"Professional, responsive, and very clear throughout the process." — Home Buyer, [City]
+
+
+"Kept the transaction moving and explained each step." — Real Estate Agent, [City]
+
+
+"Smooth closing, great communication with all parties." — Seller, [City]
+
+
+Optional CTA: Read More (if you’ll have a dedicated testimonials page later)
+
+9) Locations preview (if they have an office)
+Heading: Visit us or contact our team
+ Two-column layout:
+ Left: map embed
+ Right: card with office details
+Office card copy (template)
+[Office Name]
+
+
+[Street Address]
+
+
+[City, State ZIP]
+
+
+Phone: [Phone]
+
+
+Hours: [Hours]
+
+
+Email: [Email]
+
+
+Buttons
+Get Directions
+
+
+Contact Us
+
+
+
+10) Final CTA band (sticky conversion)
+Background: Navy with gold button.
+Headline: Ready to open escrow?
+ Subtext: Submit your transaction details and we’ll follow up with next steps.
+ Buttons: Open Escrow + Call [Phone]
+
+Footer
+Columns:
+Company
+
+
+About
+
+
+Services
+
+
+Contact
+
+
+Resources
+
+
+FAQ
+
+
+Escrow 101
+
+
+Forms / Downloads
+
+
+Legal
+
+
+Privacy Policy
+
+
+Terms of Use
+
+
+Contact
+
+
+Address
+
+
+Phone
+
+
+Email
+
+
+Hours
+
+
+Footer note
+© [Year] [Company Name]. All rights reserved.
+
+
+
+PAGE 2 — SERVICES (Hub / Landing Page)
+
+Page purpose
+Help visitors quickly identify their transaction type and move them to the correct service page or to Open Escrow.
+URL
+/services
+SEO (for Stitch fields)
+Meta title: Escrow Services | [Company Name]
+
+
+Meta description: Residential, refinance, commercial, and specialty escrow services across [Region]. View transaction types or open escrow online.
+
+
+Primary keywords: escrow services, residential escrow, commercial escrow, refinance escrow, 1031 exchange escrow
+
+
+OG title: Escrow Services | [Company Name]
+
+
+OG description: same as meta description
+
+
+
+1) Page header / intro
+Layout: centered text, clean, no clutter.
+H1
+Our Escrow Services
+
+
+Intro paragraph
+[Company Name] provides escrow services for a wide range of real estate and specialty transactions. Whether you are buying, selling, refinancing, or handling a more complex transfer, our team coordinates the process from opening to close with clear communication and structured handling of documents and funds.
+
+
+Secondary line (smaller text)
+Select a service below to learn more, or open escrow and we’ll guide you from there.
+
+
+Primary CTA button (gold)
+Open Escrow
+
+
+
+2) Core escrow services
+Heading
+Core transaction types
+
+
+Grid layout
+ Use clean cards. Each card should link to its own page.
+
+Service card — Residential Purchase & Sale
+Title
+Residential Purchase & Sale
+
+
+Description
+Escrow support for standard residential real estate transactions, including coordination between buyers, sellers, agents, and lenders.
+
+
+Link
+Learn more → /services/residential
+
+
+
+Service card — Refinance Escrow
+Title
+Refinance Escrow
+
+
+Description
+Efficient handling of refinance transactions with careful tracking of lender requirements, documents, and funding steps.
+
+
+Link
+Learn more → /services/refinance
+
+
+
+Service card — Commercial Escrow
+Title
+Commercial Escrow
+
+
+Description
+Escrow services for commercial and investment properties, structured to support more complex transaction requirements.
+
+
+Link
+Learn more → /services/commercial
+
+
+
+Service card — 1031 Exchange
+Title
+1031 Exchange
+
+
+Description
+Time-sensitive exchange transactions coordinated with qualified intermediaries and involved parties.
+
+
+Link
+Learn more → /services/1031-exchange
+
+
+
+3) Specialty & additional services
+Heading
+Specialty escrow services
+
+
+Intro line
+We also support a range of specialty transactions that require additional coordination or documentation.
+
+
+
+Service card — Probate Escrow
+Title
+Probate Escrow
+
+
+Description
+Escrow support for probate-related property transfers, with attention to court-required documentation and timelines.
+
+
+Link
+Learn more → /services/probate
+
+
+
+Service card — Holding Escrow
+Title
+Holding Escrow
+
+
+Description
+Neutral third-party holding of funds or documents until agreed-upon conditions are satisfied.
+
+
+Link
+Learn more → /services/holding-escrow
+
+
+
+Service card — REO / Bank-Owned
+Title
+REO / Bank-Owned Properties
+
+
+Description
+Escrow services for bank-owned and lender-controlled transactions with structured compliance handling.
+
+
+Link
+Learn more → /services/reo
+
+
+
+Service card — Short Sale (only if offered)
+Title
+Short Sale Escrow
+
+
+Description
+Escrow coordination for short sale transactions involving lender approvals and additional documentation.
+
+
+Link
+Learn more → /services/short-sale
+
+
+
+Service card — Mobile / Manufactured Home (only if offered)
+Title
+Mobile & Manufactured Homes
+
+
+Description
+Escrow support for mobile and manufactured home transactions, including required documentation and transfer steps.
+
+
+Link
+Learn more → /services/mobile-home
+
+
+
+4) Not sure which service applies?
+Design: light gray background, centered box.
+Heading
+Not sure which escrow service you need?
+
+
+Copy
+Some transactions don’t fit neatly into a category. If you’re unsure which service applies, you can open escrow directly or contact our team and we’ll help route your transaction correctly.
+
+
+Buttons
+Open Escrow
+
+
+Contact Us
+
+
+
+5) Process reassurance section (short)
+Heading
+A consistent process across every transaction
+
+
+Bullets
+Clear confirmation of escrow instructions
+
+
+Coordination with all involved parties
+
+
+Secure handling of documents and funds
+
+
+Structured tracking toward closing
+
+
+One-line close
+Our role is to keep the transaction organized, transparent, and moving forward.
+
+
+
+6) Final CTA band
+Background: Navy
+Headline
+Ready to get started?
+
+
+Subtext
+Open escrow online and our team will follow up with next steps.
+
+
+Button
+Open Escrow
+
+
+
+Footer
+(Same footer as Home — do not change.)
+
+PAGE 3 — RESIDENTIAL PURCHASE & SALE (Individual Service Page)
+
+This page is SEO + trust + education, not salesy. It should make buyers, sellers, and agents feel calm and informed.
+
+PAGE — Residential Purchase & Sale Escrow
+URL
+/services/residential
+Page purpose
+Explain residential escrow clearly, set expectations, and guide users to Open Escrow.
+
+SEO (for Stitch fields)
+Meta title: Residential Escrow Services | [Company Name]
+
+
+Meta description: Professional residential escrow services for home purchases and sales in [Region]. Clear communication, secure handling, and on-time closings.
+
+
+Primary keywords: residential escrow, home purchase escrow, home sale escrow, escrow company [region]
+
+
+OG title: same as meta title
+
+
+OG description: same as meta description
+
+
+
+1) Page header / hero
+Layout: simple header, no heavy imagery.
+H1
+Residential Purchase & Sale Escrow
+
+
+Intro paragraph
+Residential escrow is a neutral process that helps ensure all conditions of a home purchase or sale are satisfied before ownership and funds are transferred. At [Company Name], we coordinate the escrow process so buyers, sellers, agents, and lenders stay aligned from opening to close.
+
+
+Primary CTA
+Open Escrow
+
+
+
+2) Who this service is for
+Heading
+Who this service is for
+
+
+Bullets
+Home buyers
+
+
+Home sellers
+
+
+Real estate agents
+
+
+Investors purchasing or selling residential property
+
+
+Parties involved in standard residential real estate transactions
+
+
+
+3) What we handle during residential escrow
+Heading
+What we handle
+
+
+Bullets
+Opening escrow and confirming instructions
+
+
+Coordinating required documents and disclosures
+
+
+Managing timelines and transaction milestones
+
+
+Facilitating signatures and approvals
+
+
+Coordinating with lenders and other involved parties
+
+
+Preparing for closing based on transaction requirements
+
+
+Disbursing funds and documents according to instructions
+
+
+Short clarification text
+Our role is to act as a neutral third party, following written instructions and ensuring all conditions are met before closing.
+
+
+
+4) What you may need to provide
+Heading
+What you may need
+
+
+Intro line
+Requirements vary by transaction, but commonly include:
+
+
+Bullets
+Fully executed purchase agreement
+
+
+Identification for signing
+
+
+Contact information for all parties involved
+
+
+Lender information (if applicable)
+
+
+Additional documents requested based on the transaction
+
+
+Small note
+We’ll confirm specific requirements once escrow is opened.
+
+
+
+5) Typical residential escrow timeline
+Heading
+Typical escrow timeline
+
+
+Timeline steps
+Escrow is opened
+ We receive the purchase agreement and basic transaction details.
+
+
+Instructions and documentation
+ Required documents and disclosures are gathered and reviewed.
+
+
+Contingency and condition tracking
+ We coordinate signatures, approvals, and required conditions.
+
+
+Final review and funding
+ Funding requirements are confirmed prior to closing.
+
+
+Closing and disbursement
+ Documents and funds are disbursed according to instructions.
+
+
+Disclaimer line (important)
+Timelines vary based on transaction complexity, financing, and external factors.
+
+
+
+6) Common questions about residential escrow
+Heading
+Common questions
+
+
+Q1
+How long does residential escrow take?
+ The length of escrow varies depending on the transaction, financing, and negotiated terms. We provide updates throughout the process so all parties understand where the file stands.
+
+
+Q2
+Who pays escrow fees?
+ Fee responsibility is typically defined in the purchase agreement and may vary by transaction.
+
+
+Q3
+Can escrow close early or late?
+ Changes can occur based on documentation, funding, or negotiated adjustments. We communicate promptly if timelines shift.
+
+
+Q4
+How are funds handled securely?
+ Funds are handled according to written instructions and industry-standard security practices. Wiring instructions should always be verified verbally.
+
+
+
+7) Security notice (repeat but consistent)
+Heading
+Important security reminder
+
+
+Copy
+Always verify wiring instructions by phone using a trusted number before sending funds. Do not rely on wiring instructions received by email or text.
+
+
+
+8) Why work with [Company Name] for residential escrow
+Heading
+Why clients choose us for residential escrow
+
+
+Bullets
+Clear and consistent communication
+
+
+Structured process with defined steps
+
+
+Attention to detail throughout the transaction
+
+
+Professional coordination with all parties
+
+
+Secure handling of sensitive information
+
+
+
+9) Call to action
+CTA block
+Headline: Ready to open residential escrow?
+
+
+Subtext: Submit your transaction details and we’ll guide you through the next steps.
+
+
+Buttons:
+
+
+Open Escrow
+
+
+Contact Us
+
+
+
+Footer
+(Standard site footer)
+
+
+
+PAGE 4 — OPEN ESCROW (Form / Conversion Page)
+
+
+This page must be clear, calm, secure, and friction-light. No marketing fluff.
+
+PAGE — Open Escrow
+URL
+/open-escrow
+Page purpose
+Allow users to submit escrow details confidently and understand what happens next.
+
+SEO (for Stitch fields)
+Meta title: Open Escrow | [Company Name]
+
+
+Meta description: Open escrow online with [Company Name]. Submit your transaction details securely and our team will follow up with next steps.
+
+
+Primary keywords: open escrow, start escrow, escrow opening
+
+
+OG title: same as meta title
+
+
+OG description: same as meta description
+
+
+
+1) Page header / intro
+Layout: centered, no distractions.
+H1
+Open Escrow
+
+
+Intro paragraph
+Use the form below to open escrow with [Company Name]. Once submitted, our team will review your information and contact you to confirm details and outline next steps.
+
+
+Reassurance line (small text)
+Submitting this form does not obligate you to close. It allows us to begin reviewing your transaction.
+
+
+
+2) “What happens next” section
+Design: light gray background, 3–4 steps.
+Heading
+What happens after you submit
+
+
+Steps
+Review
+ We review your submission and confirm the transaction details.
+
+
+Contact
+ An escrow team member reaches out to verify information and answer questions.
+
+
+Instructions
+ We provide initial escrow instructions and document requirements.
+
+
+Next steps
+ We guide you through the process toward closing.
+
+
+
+3) Open Escrow form (core content)
+Form heading
+Escrow Information
+
+
+Section A — Transaction details
+Transaction Type (dropdown)
+
+
+Residential Purchase
+
+
+Residential Sale
+
+
+Refinance
+
+
+Commercial
+
+
+1031 Exchange
+
+
+Probate
+
+
+Holding Escrow
+
+
+Other
+
+
+Property Address (text)
+
+
+City / State / ZIP
+
+
+County (text or dropdown if needed)
+
+
+Estimated Purchase Price or Loan Amount (optional)
+
+
+Target Close Date (optional date picker)
+
+
+
+Section B — Buyer / Seller information
+Buyer
+Buyer Name
+
+
+Buyer Email
+
+
+Buyer Phone
+
+
+Seller
+Seller Name
+
+
+Seller Email
+
+
+Seller Phone
+
+
+(If one side is unknown, allow fields to be optional.)
+
+Section C — Agent / lender (if applicable)
+Real Estate Agent Name
+
+
+Brokerage
+
+
+Agent Email
+
+
+Agent Phone
+
+
+Lender Name
+
+
+Lender Contact
+
+
+Lender Email / Phone
+
+
+
+Section D — Documents (optional upload)
+Upload documents
+ Accepted files: PDF, JPG, PNG
+
+
+Purchase agreement
+
+
+Counter offers
+
+
+Addenda
+
+
+Other related documents
+
+
+Small helper text
+You may submit documents now or provide them later.
+
+
+
+Section E — Additional notes
+Notes / Special instructions (textarea)
+
+
+
+Section F — Contact preference & consent
+Preferred contact method
+
+
+Phone
+
+
+Email
+
+
+Consent checkbox
+
+
+I understand that [Company Name] will contact me regarding this escrow request.
+
+
+
+Submit button
+Primary button (gold)
+Submit Escrow Request
+
+
+Under-button text
+Your information is handled securely and used only for escrow-related purposes.
+
+
+
+4) Security & wire fraud notice
+Design: bordered box, not alarming.
+Heading
+Important security notice
+
+
+Copy
+Wire fraud is a serious risk in real estate transactions. Always verify wiring instructions by phone using a trusted number before sending funds.
+
+
+Never rely on wiring changes sent by email or text.
+
+
+
+5) Alternative contact section
+Heading
+Prefer to speak with someone first?
+
+
+Copy
+If you have questions before opening escrow, contact our team and we’ll be happy to help.
+
+
+Buttons
+Call [Phone]
+
+
+Contact Us
+
+
+
+6) Footer
+(Standard site footer)
+
+Notes you should follow strictly
+Do not request sensitive data like SSNs.
+
+
+Do not imply escrow is “approved” on submission.
+
+
+Keep the tone neutral and procedural.
+
+
+This page should feel safe, not salesy.
+
+
+
+PAGE 5 — CONTACT
+
+This page should feel simple, reachable, and professional. No clutter, no sales copy.
+
+PAGE — Contact Us
+URL
+/contact
+Page purpose
+Give visitors a fast, low-friction way to reach the escrow team and set expectations for response.
+
+SEO (for Stitch fields)
+Meta title: Contact Us | [Company Name]
+
+
+Meta description: Contact [Company Name] for escrow questions, transaction support, or to open escrow. Call, email, or send us a message.
+
+
+Primary keywords: escrow contact, escrow company [city], contact escrow
+
+
+OG title: same as meta title
+
+
+OG description: same as meta description
+
+
+
+1) Page header
+H1
+Contact Us
+
+
+Intro paragraph
+Have a question or need help with an escrow transaction? Contact our team using the information below, and we’ll respond as quickly as possible during business hours.
+
+
+
+2) Contact information (primary section)
+Layout: two-column (details on left, form on right)
+Left column — Direct contact
+Heading
+Get in touch
+
+
+Contact details
+Phone: [Phone Number]
+
+
+Email: [Email Address]
+
+
+Office Hours: [Days & Hours]
+
+
+Short note
+Messages received outside business hours will be returned the next business day.
+
+
+
+3) Contact form
+Form heading
+Send us a message
+
+
+Form fields
+Full Name
+
+
+Email Address
+
+
+Phone Number (optional)
+
+
+Subject (dropdown)
+
+
+General Question
+
+
+Open Escrow
+
+
+Existing Escrow
+
+
+Fees & Services
+
+
+Other
+
+
+Message (textarea)
+
+
+Consent checkbox
+I understand that [Company Name] may contact me regarding my inquiry.
+
+
+Submit button
+Send Message
+
+
+Under-form text
+This form is for general inquiries only. Do not send sensitive or confidential information.
+
+
+
+4) Office location(s)
+(Include even if there is only one office.)
+Heading
+Our office
+
+
+Office card (repeatable if multiple locations)
+[Office Name]
+
+
+[Street Address]
+
+
+[City, State ZIP]
+
+
+Phone: [Phone]
+
+
+Hours: [Hours]
+
+
+Map
+Embedded Google Map (static or interactive)
+
+
+Optional note
+Appointments recommended for in-person visits.
+
+
+
+5) Security reminder
+Design: subtle bordered box.
+Heading
+Security reminder
+
+
+Copy
+For your protection, never send wiring instructions or sensitive personal information by email or contact form. Always verify instructions by phone using a trusted number.
+
+
+
+6) Call to action (soft)
+Heading
+Ready to start a transaction?
+
+
+Copy
+If you already have transaction details, you can open escrow online.
+
+
+Button
+Open Escrow
+
+
+
+Footer
+(Standard site footer)
+
+Notes (important for quality)
+Contact page should feel calm and human.
+
+
+Avoid marketing language.
+
+
+Keep response expectations realistic.
+
+
+Do not expose personal staff emails unless the client explicitly wants that.
+
+PAGE 6 — ABOUT
+
+This page is about legitimacy, professionalism, and calm authority.
+ No hype. No bragging. Just: who you are, how you work, and why that matters.
+
+PAGE — About Us
+URL
+/about
+Page purpose
+Establish trust, explain the company’s role, and humanize the team without oversharing.
+
+SEO (for Stitch fields)
+Meta title: About [Company Name] | Escrow Services
+
+
+Meta description: Learn about [Company Name], our approach to escrow, and how we support residential and commercial transactions across [Region].
+
+
+Primary keywords: about escrow company, escrow professionals [region]
+
+
+OG title: same as meta title
+
+
+OG description: same as meta description
+
+
+
+1) Page header
+H1
+About [Company Name]
+
+
+Intro paragraph
+[Company Name] is an independent escrow company serving clients across [Region]. We provide escrow services for residential, commercial, and specialty transactions, acting as a neutral third party to help ensure each transaction is completed according to written instructions.
+
+
+
+2) Who we are
+Heading
+Who we are
+
+
+Paragraph
+Our role is to coordinate the escrow process with clarity, accuracy, and attention to detail. We work with buyers, sellers, agents, lenders, and other parties to help keep transactions organized, timelines clear, and communication consistent from opening to close.
+
+
+Optional second paragraph
+Every transaction is different, but our approach remains the same: follow instructions carefully, communicate proactively, and handle documents and funds securely.
+
+
+
+3) Our approach to escrow
+Heading
+Our approach
+
+
+Bullets
+Neutral and instruction-based handling of every transaction
+
+
+Clear communication with all involved parties
+
+
+Structured tracking of documents, approvals, and milestones
+
+
+Attention to deadlines and transaction details
+
+
+Professional handling of sensitive information
+
+
+Short close
+We focus on process and precision so our clients can focus on their transaction.
+
+
+
+4) Experience & professionalism
+Heading
+Experience you can rely on
+
+
+Paragraph
+Our team brings experience across a range of escrow transaction types, including residential purchases and sales, refinances, commercial transactions, and specialty escrows. We understand that escrow is often one part of a larger transaction, and we work to support the overall process through consistency and responsiveness.
+
+
+(Avoid stating years or credentials unless the client gives you exact numbers.)
+
+5) Compliance & responsibility
+Heading
+Compliance and responsibility
+
+
+Paragraph
+[Company Name] operates in accordance with applicable escrow regulations and industry standards. We follow established procedures for document handling, verification, and disbursement based on written escrow instructions.
+
+
+Optional note
+Specific licensing or bonding information can be provided upon request.
+ (Only include if true and approved.)
+
+
+
+6) Our team
+Heading
+Our team
+
+
+Intro line
+Our escrow professionals are committed to accuracy, communication, and service throughout every transaction.
+
+
+Team member card template
+(Repeat for each team member.)
+Name
+
+
+Title
+
+
+Short bio (2–3 sentences max)
+ Example:
+
+
+[Name] is an escrow officer with experience handling residential and specialty escrow transactions. They focus on clear communication and careful coordination with all parties involved.
+
+
+Important
+Do not exaggerate.
+
+
+Do not invent certifications.
+
+
+Keep bios factual and restrained.
+
+
+
+7) Service area
+Heading
+Serving [Region]
+
+
+Paragraph
+We serve clients across [cities/counties/region]. Whether working with local or out-of-area parties, we provide the same structured escrow process and responsive communication.
+
+
+
+8) Why clients work with us
+Heading
+Why clients choose [Company Name]
+
+
+Bullets
+Clear and timely communication
+
+
+Professional coordination across all parties
+
+
+Consistent process from opening to close
+
+
+Secure handling of documents and funds
+
+
+A practical, detail-oriented approach
+
+
+
+9) Call to action
+CTA block
+Headline: Have a transaction coming up?
+
+
+Subtext: We’re happy to answer questions or help you get started.
+
+
+Buttons:
+
+
+Open Escrow
+
+
+Contact Us
+
+
+
+Footer
+(Standard site footer)
+
+Notes for you (important)
+This page should feel boring in a good way.
+
+
+Escrow clients want reliability, not personality branding.
+
+
+Less is more here.
+
+
+
+PAGE 7 — REFINANCE ESCROW
+
+This page reassures lenders and borrowers that the process is controlled, predictable, and efficient.
+
+PAGE — Refinance Escrow
+URL
+/services/refinance
+Page purpose
+Explain refinance escrow clearly, reduce confusion, and set expectations around lender coordination and timelines.
+
+SEO (for Stitch fields)
+Meta title: Refinance Escrow Services | [Company Name]
+
+
+Meta description: Refinance escrow services for residential properties in [Region]. Clear coordination with lenders, secure handling, and structured closings.
+
+
+Primary keywords: refinance escrow, refi escrow, escrow refinance
+
+
+OG title: same as meta title
+
+
+OG description: same as meta description
+
+
+
+1) Page header / intro
+H1
+Refinance Escrow
+
+
+Intro paragraph
+Refinance escrow helps ensure that lender requirements are satisfied before loan funds are disbursed and recorded. At [Company Name], we coordinate the refinance process with lenders and borrowers to keep documentation, timing, and funding aligned.
+
+
+Primary CTA
+Open Escrow
+
+
+
+2) Who this service is for
+Heading
+Who this service is for
+
+
+Bullets
+Homeowners refinancing an existing mortgage
+
+
+Borrowers working with institutional or private lenders
+
+
+Lenders requiring escrow coordination
+
+
+Parties involved in residential refinance transactions
+
+
+
+3) What we handle during refinance escrow
+Heading
+What we handle
+
+
+Bullets
+Opening refinance escrow and confirming instructions
+
+
+Coordinating lender documents and requirements
+
+
+Facilitating borrower signatures
+
+
+Managing payoff of existing liens as instructed
+
+
+Tracking funding and recording requirements
+
+
+Disbursing funds according to escrow instructions
+
+
+Clarifying sentence
+All steps are completed according to written instructions provided by the lender and involved parties.
+
+
+
+4) What you may need to provide
+Heading
+What you may need
+
+
+Intro
+Requirements vary by lender, but commonly include:
+
+
+Bullets
+Identification for signing
+
+
+Lender contact information
+
+
+Existing loan information
+
+
+Additional documents requested by the lender
+
+
+Small note
+We will confirm specific requirements once escrow is opened.
+
+
+
+5) Typical refinance escrow timeline
+Heading
+Typical refinance timeline
+
+
+Steps
+Escrow opened
+ Lender instructions and borrower information are received.
+
+
+Document preparation
+ Loan documents are prepared and delivered for signing.
+
+
+Signing
+ Borrower completes required signatures.
+
+
+Funding & rescission period
+ Funding occurs after any applicable waiting period.
+
+
+Recording & disbursement
+ Documents are recorded and funds disbursed as instructed.
+
+
+Disclaimer
+Timelines vary based on lender requirements and transaction details.
+
+
+
+6) Common refinance escrow questions
+Heading
+Common questions
+
+
+Q1
+Is refinance escrow faster than a purchase escrow?
+ Often yes, but timelines depend on lender requirements, documentation, and applicable waiting periods.
+
+
+Q2
+Is there a rescission period?
+ Some refinance transactions include a mandatory rescission period, depending on loan type and property.
+
+
+Q3
+When are funds disbursed?
+ Funds are disbursed according to lender instructions after all conditions are satisfied.
+
+
+
+7) Security reminder
+Heading
+Important security reminder
+
+
+Copy
+Always verify wiring instructions by phone using a trusted number before sending funds. Do not rely on instructions received by email or text.
+
+
+
+8) Why work with [Company Name] for refinance escrow
+Heading
+Why clients choose us for refinance escrow
+
+
+Bullets
+Clear coordination with lenders
+
+
+Structured handling of refinance documents
+
+
+Timely communication with borrowers
+
+
+Secure processing of sensitive information
+
+
+Attention to funding and recording requirements
+
+
+
+9) Call to action
+CTA block
+Headline: Planning to refinance?
+
+
+Subtext: Open escrow online and we’ll guide you through the next steps.
+
+
+Buttons:
+
+
+Open Escrow
+
+
+Contact Us
+
+
+
+Footer
+(Standard site footer)
+
+Notes for you
+This page reassures lenders as much as borrowers.
+
+
+Avoid promises like “fast” or “guaranteed.”
+
+
+Keep language procedural and factual.
+
+
+PAGE 8 — COMMERCIAL ESCROW
+
+This page must communicate structure, control, and experience with complexity—without promising outcomes.
+
+PAGE — Commercial Escrow
+URL
+/services/commercial
+Page purpose
+Explain how commercial escrow differs from residential, set expectations, and reassure parties that complex requirements are handled methodically.
+
+SEO (for Stitch fields)
+Meta title: Commercial Escrow Services | [Company Name]
+
+
+Meta description: Commercial escrow services for investment and business properties in [Region]. Structured coordination, clear communication, and secure handling.
+
+
+Primary keywords: commercial escrow, investment property escrow, business escrow
+
+
+OG title: same as meta title
+
+
+OG description: same as meta description
+
+
+
+1) Page header / intro
+H1
+Commercial Escrow
+
+
+Intro paragraph
+Commercial escrow involves transactions that often include additional parties, documents, and negotiated terms. At [Company Name], we coordinate commercial escrow files with a structured, detail-oriented approach to help ensure all written instructions and conditions are satisfied prior to closing.
+
+
+Primary CTA
+Open Escrow
+
+
+
+2) Who this service is for
+Heading
+Who this service is for
+
+
+Bullets
+Buyers and sellers of commercial property
+
+
+Investors and investment groups
+
+
+Business owners transferring real property interests
+
+
+Parties involved in income-producing or mixed-use properties
+
+
+Transactions requiring customized escrow coordination
+
+
+
+3) What we handle during commercial escrow
+Heading
+What we handle
+
+
+Bullets
+Opening escrow and confirming commercial escrow instructions
+
+
+Coordinating documents among buyers, sellers, agents, lenders, and attorneys
+
+
+Tracking negotiated terms and escrow conditions
+
+
+Facilitating signatures and approvals
+
+
+Coordinating funding and disbursement per instructions
+
+
+Managing timelines based on transaction requirements
+
+
+Clarification
+Commercial escrow files are handled according to written instructions and transaction-specific agreements.
+
+
+
+4) Common commercial transaction types
+Heading
+Common commercial transactions
+
+
+Bullets
+Office and retail properties
+
+
+Industrial and warehouse properties
+
+
+Multi-unit residential investments
+
+
+Mixed-use developments
+
+
+Vacant commercial land
+
+
+Business-related real estate transfers
+
+
+(Only keep items the client actually handles.)
+
+5) What you may need to provide
+Heading
+What you may need
+
+
+Intro
+Commercial transactions vary, but often require:
+
+
+Bullets
+Executed purchase or sale agreement
+
+
+Entity documentation (if applicable)
+
+
+Contact information for all involved parties
+
+
+Lender or financing details (if applicable)
+
+
+Additional documents based on negotiated terms
+
+
+Small note
+Specific requirements are confirmed once escrow is opened.
+
+
+
+6) Typical commercial escrow timeline
+Heading
+Typical commercial escrow timeline
+
+
+Steps
+Escrow opened
+ Transaction documents and instructions are received.
+
+
+Document coordination
+ Required documents and approvals are gathered.
+
+
+Condition tracking
+ Escrow conditions and negotiated terms are monitored.
+
+
+Funding preparation
+ Funding requirements are confirmed prior to close.
+
+
+Closing & disbursement
+ Funds and documents are disbursed per written instructions.
+
+
+Disclaimer
+Commercial timelines vary based on complexity, financing, and negotiated terms.
+
+
+
+7) Common questions about commercial escrow
+Heading
+Common questions
+
+
+Q1
+How is commercial escrow different from residential escrow?
+ Commercial escrow often involves additional documentation, entity structures, and negotiated conditions, requiring more customized coordination.
+
+
+Q2
+Do commercial transactions take longer?
+ They can, depending on financing, due diligence, and transaction complexity.
+
+
+Q3
+Can escrow coordinate with attorneys or advisors?
+ Yes. We coordinate with authorized parties as instructed.
+
+
+
+8) Security reminder
+Heading
+Important security reminder
+
+
+Copy
+Always verify wiring instructions by phone using a trusted number before sending funds. Do not rely on wiring instructions sent by email or text.
+
+
+
+9) Why work with [Company Name] for commercial escrow
+Heading
+Why clients choose us for commercial escrow
+
+
+Bullets
+Structured handling of complex transactions
+
+
+Clear coordination across multiple parties
+
+
+Attention to transaction-specific instructions
+
+
+Secure handling of sensitive information
+
+
+Consistent communication throughout the process
+
+
+
+10) Call to action
+CTA block
+Headline: Starting a commercial transaction?
+
+
+Subtext: Open escrow online and our team will confirm next steps.
+
+
+Buttons:
+
+
+Open Escrow
+
+
+Contact Us
+
+
+
+Footer
+(Standard site footer)
+
+Notes for you
+This page should feel calm and methodical.
+
+
+Avoid words like fast, guaranteed, or expert unless the client explicitly approves.
+
+
+Commercial clients care more about process control than marketing.
+
+
+
+PAGE 9 — FEES
+
+This page builds trust and transparency. Keep it factual. No marketing tricks.
+
+PAGE — Fees
+URL
+/fees
+Page purpose
+Explain how escrow fees work, set expectations, and reduce pricing anxiety.
+
+SEO (for Stitch fields)
+Meta title: Escrow Fees | [Company Name]
+
+
+Meta description: Learn how escrow fees work at [Company Name]. Transparent pricing, clear explanations, and no surprises.
+
+
+Primary keywords: escrow fees, escrow costs, how much does escrow cost
+
+
+OG title: same as meta title
+
+
+OG description: same as meta description
+
+
+
+1) Page header
+H1
+Escrow Fees
+
+
+Intro paragraph
+Escrow fees vary based on transaction type, complexity, and specific requirements. At [Company Name], we believe in transparency and clear communication so clients understand what to expect.
+
+
+
+2) How escrow fees are determined
+Heading
+How escrow fees are determined
+
+
+Bullets
+Type of transaction (residential, refinance, commercial, specialty)
+
+
+Purchase price or loan amount
+
+
+Transaction complexity
+
+
+Number of parties involved
+
+
+Special handling or additional documentation requirements
+
+
+Short clarification
+Fee responsibility is typically outlined in the purchase agreement or escrow instructions.
+
+
+
+3) Fee structure (choose ONE option based on client preference)
+OPTION A — Fee Schedule (best if client allows publishing)
+Heading
+Our fee structure
+
+
+Table example
+Transaction Type
+Fee Description
+Residential Purchase/Sale
+Based on transaction value
+Refinance
+Based on loan amount
+Commercial
+Quoted based on complexity
+Specialty Escrow
+Quoted based on requirements
+
+Note
+Exact fees are confirmed once transaction details are reviewed.
+
+
+
+OPTION B — Quote-based pricing (safe, common)
+Heading
+Request a fee quote
+
+
+Copy
+Because escrow transactions vary, fees are confirmed after reviewing transaction details. This ensures pricing reflects the actual scope of work.
+
+
+Button
+Request a Quote (links to Open Escrow or Contact)
+
+
+
+4) What escrow fees typically cover
+Heading
+What escrow fees typically cover
+
+
+Bullets
+Escrow coordination and file management
+
+
+Document preparation and processing
+
+
+Facilitation of signatures
+
+
+Coordination with involved parties
+
+
+Disbursement of funds per instructions
+
+
+
+5) Additional costs (important clarity)
+Heading
+Additional costs
+
+
+Copy
+Some transactions may include additional costs separate from escrow fees, such as recording fees, courier charges, or third-party services. These are transaction-specific and disclosed as applicable.
+
+
+
+6) No surprises reassurance
+Heading
+Clear communication
+
+
+Paragraph
+We communicate fees clearly and confirm them before closing. If a transaction changes in scope, we discuss any fee adjustments in advance.
+
+
+
+7) Call to action
+CTA block
+Headline: Have questions about fees?
+
+
+Subtext: Contact our team or open escrow to receive a clear breakdown.
+
+
+Buttons:
+
+
+Contact Us
+
+
+Open Escrow
+
+
+
+Footer
+(Standard site footer)
+
+Notes for you
+Do not promise “lowest fees.”
+
+
+Do not say “no junk fees” unless client approves.
+
+
+Keep this page calm and explanatory.
+
+PAGE 10 — FAQ (Frequently Asked Questions)
+
+This page reduces support calls and builds confidence.
+ Keep answers short, factual, and neutral.
+
+PAGE — Frequently Asked Questions
+URL
+/faq
+Page purpose
+Answer common escrow questions clearly for buyers, sellers, agents, and borrowers.
+
+SEO (for Stitch fields)
+Meta title: Escrow FAQs | [Company Name]
+
+
+Meta description: Answers to common escrow questions, including timelines, fees, documents, and security. Learn how escrow works with [Company Name].
+
+
+Primary keywords: escrow faq, what is escrow, escrow questions
+
+
+OG title: same as meta title
+
+
+OG description: same as meta description
+
+
+
+1) Page header
+H1
+Frequently Asked Questions
+
+
+Intro paragraph
+Below are answers to common questions about escrow and the escrow process. If you don’t see your question here, feel free to contact our team.
+
+
+
+2) General escrow questions
+Q: What is escrow?
+A:
+ Escrow is a neutral process in which a third party holds documents and funds and ensures that all agreed-upon conditions are met before a transaction is completed.
+
+Q: What does an escrow company do?
+A:
+ An escrow company coordinates the transaction according to written instructions, facilitates document handling and signatures, and disburses funds when all conditions are satisfied.
+
+Q: Is escrow required?
+A:
+ Escrow is commonly required for real estate transactions and certain specialty transfers, depending on the transaction and involved parties.
+
+3) Timing & process questions
+Q: How long does escrow take?
+A:
+ Escrow timelines vary based on transaction type, financing, and documentation. Residential transactions often take several weeks, while other transactions may take more or less time depending on complexity.
+
+Q: Can escrow close early or late?
+A:
+ Yes. Changes in documentation, funding, or negotiated terms can affect timing. We communicate promptly if timelines change.
+
+Q: What happens if something changes during escrow?
+A:
+ Any changes must be documented and agreed upon by the involved parties. Escrow follows updated written instructions once received.
+
+4) Fees & payments
+Q: Who pays escrow fees?
+A:
+ Fee responsibility is typically defined in the purchase agreement or escrow instructions and may vary by transaction.
+
+Q: When are escrow fees paid?
+A:
+ Escrow fees are usually paid at closing unless otherwise instructed.
+
+Q: Are escrow fees refundable?
+A:
+ Fee refundability depends on the transaction and work completed. Specific details can be discussed with our team.
+
+5) Documents & signing
+Q: What documents will I need to sign?
+A:
+ Required documents vary by transaction. Common documents include escrow instructions, disclosures, and transaction-specific forms.
+
+Q: What identification is required for signing?
+A:
+ Valid government-issued photo identification is typically required. Additional requirements may apply depending on the transaction.
+
+Q: Can I sign remotely?
+A:
+ Some documents may be eligible for remote or mobile signing, depending on transaction requirements and applicable regulations.
+
+6) Funds & security
+Q: How are funds handled during escrow?
+A:
+ Funds are handled according to written instructions and industry-standard security procedures.
+
+Q: How do I protect myself from wire fraud?
+A:
+ Always verify wiring instructions by phone using a trusted number before sending funds. Never rely on wiring instructions received by email or text.
+
+Q: Will escrow send wiring instructions by email?
+A:
+ Wiring instructions should always be verified verbally. Contact our office directly using a trusted phone number.
+
+7) Closing & after closing
+Q: What happens at closing?
+A:
+ Once all conditions are satisfied, escrow coordinates recording (if applicable) and disburses funds and documents according to instructions.
+
+Q: When do I receive my final documents?
+A:
+ Final documents are typically provided after closing. Timing may vary by transaction.
+
+8) Still have questions?
+Design: light gray box
+Heading
+Need more information?
+
+
+Copy
+If your question isn’t answered here, our team is happy to help.
+
+
+Buttons
+Contact Us
+
+
+Open Escrow
+
+
+
+Footer
+(Standard site footer)
+
+Notes for you
+This page is intentionally conservative.
+
+
+Do not give legal advice.
+
+
+Keep answers consistent with other pages.
+
+PAGE 11 — ESCROW 101 / LIFE OF AN ESCROW
+
+This page is educational, not promotional.
+ Its job is to explain the process clearly to non-experts and reduce anxiety.
+
+PAGE — Escrow 101
+URL
+/escrow-101
+ (or /resources/escrow-101 if it lives under Resources)
+Page purpose
+Explain what escrow is, why it exists, and how the process works from start to finish.
+
+SEO (for Stitch fields)
+Meta title: Escrow 101 | How Escrow Works
+
+
+Meta description: Learn how escrow works, why it’s used, and what to expect from opening to closing. A clear, step-by-step overview from [Company Name].
+
+
+Primary keywords: what is escrow, how escrow works, escrow process
+
+
+OG title: Escrow 101 | How Escrow Works
+
+
+OG description: same as meta description
+
+
+
+1) Page header
+H1
+Escrow 101: How Escrow Works
+
+
+Intro paragraph
+Escrow is designed to help protect all parties involved in a transaction by ensuring that funds and documents are handled according to agreed-upon instructions. This page provides a general overview of how the escrow process works from start to finish.
+
+
+
+2) What is escrow?
+Heading
+What is escrow?
+
+
+Paragraph
+Escrow is a neutral arrangement in which a third party holds funds and documents until all conditions of a transaction are satisfied. Once those conditions are met, escrow disburses funds and documents according to written instructions.
+
+
+Key point
+The escrow holder does not represent any one party and follows written instructions agreed to by all involved.
+
+
+
+3) Why escrow is used
+Heading
+Why escrow is used
+
+
+Bullets
+Helps ensure agreed-upon conditions are met before closing
+
+
+Provides neutral handling of funds and documents
+
+
+Coordinates communication between multiple parties
+
+
+Reduces risk during complex transactions
+
+
+
+4) Parties commonly involved in escrow
+Heading
+Who is involved in escrow
+
+
+Bullets
+Buyer
+
+
+Seller
+
+
+Escrow company
+
+
+Real estate agents
+
+
+Lenders (if applicable)
+
+
+Attorneys or advisors (if applicable)
+
+
+Short note
+Not every transaction includes all parties listed above.
+
+
+
+5) Step-by-step: Life of an escrow
+Heading
+The escrow process step by step
+
+
+Step 1 — Open escrow
+Escrow is opened once a purchase agreement or transaction instructions are submitted. Basic information about the transaction and parties is collected.
+
+
+
+Step 2 — Confirm instructions
+Escrow instructions outline how the transaction will be handled. These instructions guide the escrow holder throughout the process.
+
+
+
+Step 3 — Document coordination
+Required documents, disclosures, and approvals are gathered and reviewed according to the transaction type.
+
+
+
+Step 4 — Condition tracking
+Escrow tracks required conditions, signatures, and approvals to help ensure nothing is missed.
+
+
+
+Step 5 — Funding preparation
+Funding requirements are confirmed prior to closing. This may include lender funds or buyer funds, depending on the transaction.
+
+
+
+Step 6 — Closing
+Once all conditions are satisfied, escrow coordinates closing, including recording (if applicable) and disbursement of funds and documents.
+
+
+
+6) Common items handled in escrow
+Heading
+What escrow commonly handles
+
+
+Bullets
+Purchase agreements and instructions
+
+
+Disclosures and transaction documents
+
+
+Signatures and approvals
+
+
+Funds held and disbursed per instructions
+
+
+Final documentation at closing
+
+
+
+7) Security and wire fraud awareness
+Heading
+Security and wire fraud awareness
+
+
+Paragraph
+Wire fraud is a known risk in real estate transactions. Escrow companies follow security procedures, but clients should also take precautions.
+
+
+Bullets
+Always verify wiring instructions by phone using a trusted number
+
+
+Do not rely on wiring instructions sent by email or text
+
+
+Contact escrow immediately if something seems unusual
+
+
+
+8) What escrow does not do
+Heading
+What escrow does not do
+
+
+Bullets
+Provide legal advice
+
+
+Negotiate transaction terms
+
+
+Represent one party over another
+
+
+Approve or deny transactions
+
+
+
+9) Still have questions?
+CTA block
+Headline: Have questions about escrow?
+
+
+Subtext: Our team is happy to help clarify the process.
+
+
+Buttons:
+
+
+Contact Us
+
+
+Open Escrow
+
+
+
+Footer
+(Standard site footer)
+
+Notes for you
+This page is often shared by agents — keep it clean and neutral.
+
+
+Avoid jurisdiction-specific claims unless approved by the client.
+
+
+This page pairs well with FAQ and service pages.
+PAGE 12 — FORMS / DOWNLOADS
+
+This page should feel organized, controlled, and minimal.
+ It’s a utility page, not marketing.
+
+PAGE — Forms & Downloads
+URL
+/forms
+ (or /resources/forms if grouped under Resources)
+Page purpose
+Provide access to commonly requested escrow-related documents and set clear expectations about usage.
+
+SEO (for Stitch fields)
+Meta title: Forms & Downloads | [Company Name]
+
+
+Meta description: Access commonly used escrow forms and informational documents provided by [Company Name].
+
+
+Primary keywords: escrow forms, escrow documents, escrow downloads
+
+
+OG title: same as meta title
+
+
+OG description: same as meta description
+
+
+
+1) Page header
+H1
+Forms & Downloads
+
+
+Intro paragraph
+Below are commonly requested forms and informational documents. Availability and requirements may vary by transaction. If you’re unsure which form applies, contact our team for guidance.
+
+
+
+2) Important notice (must be visible)
+Design: light gray or bordered box.
+Heading
+Important notice
+
+
+Copy
+Forms provided here are for convenience only. Not all forms apply to every transaction, and some documents may need to be completed or provided directly by escrow. Always follow instructions provided by our team.
+
+
+
+3) Forms section — Transaction-related forms
+Heading
+Transaction-related forms
+
+
+Form list (each item as a card or list row)
+Wire Authorization Form
+Description:
+ Used to authorize the disbursement of funds according to escrow instructions.
+
+
+File: Wire_Authorization.pdf
+
+
+Action: Download
+
+
+
+Identification Requirements
+Description:
+ Overview of identification requirements for signing escrow documents.
+
+
+File: Identification_Requirements.pdf
+
+
+Action: Download
+
+
+
+Buyer / Seller Information Sheet
+Description:
+ Collects basic contact and transaction information for escrow setup.
+
+
+File: Buyer_Seller_Information.pdf
+
+
+Action: Download
+
+
+
+(Only list forms the client actually uses. Remove anything speculative.)
+
+4) Informational documents
+Heading
+Informational documents
+
+
+Escrow Process Overview
+Description:
+ A general overview of the escrow process from opening to closing.
+
+
+File: Escrow_Process_Overview.pdf
+
+
+Action: Download
+
+
+
+Wire Fraud Awareness Notice
+Description:
+ Important information on how to protect yourself from wire fraud during a transaction.
+
+
+File: Wire_Fraud_Awareness.pdf
+
+
+Action: Download
+
+
+
+5) Document submission guidance
+Heading
+Submitting documents
+
+
+Bullets
+Follow instructions provided by escrow before submitting documents
+
+
+Do not email sensitive information unless directed
+
+
+Verify wiring instructions by phone using a trusted number
+
+
+Contact escrow if you are unsure how to submit a document
+
+
+
+6) Need help?
+CTA box
+Heading: Need help with a form?
+
+
+Copy:
+ If you’re unsure which document applies to your transaction or how to complete a form, contact our team and we’ll guide you.
+
+
+Buttons:
+
+
+Contact Us
+
+
+Open Escrow
+
+
+
+Footer
+(Standard site footer)
+
+Notes for you (important)
+Never host editable legal documents without approval.
+
+
+PDFs only — no Word files.
+
+
+Label everything clearly.
+
+
+This page protects the escrow team from misuse.
+
+
+PAGE 13 — PRIVACY POLICY
+This page must be clear, conservative, and compliant.
+ No tracking claims you can’t back up. No legal overreach.
+
+PAGE — Privacy Policy
+URL
+/privacy-policy
+Page purpose
+Explain how information is collected, used, protected, and disclosed in plain language.
+
+SEO (for Stitch fields)
+Meta title: Privacy Policy | [Company Name]
+
+
+Meta description: Review the privacy practices of [Company Name], including how personal information is collected, used, and protected.
+
+
+OG title: Privacy Policy | [Company Name]
+
+
+OG description: same as meta description
+
+
+
+1) Page header
+H1
+Privacy Policy
+
+
+Effective date
+Effective Date: [Month Day, Year]
+
+
+Intro paragraph
+[Company Name] respects your privacy and is committed to protecting personal information provided through our website. This Privacy Policy explains how we collect, use, and safeguard information when you visit our website or submit information through our forms.
+
+
+
+2) Information we collect
+Heading
+Information we collect
+
+
+Subheading
+Information you provide directly
+
+
+Paragraph
+We may collect personal information you voluntarily provide, such as your name, email address, phone number, property information, and transaction-related details when you submit forms or contact us.
+
+
+Subheading
+Information collected automatically
+
+
+Paragraph
+Our website may collect limited technical information such as IP address, browser type, and pages visited for basic website functionality and security purposes.
+
+
+
+3) How we use information
+Heading
+How we use information
+
+
+Bullets
+Respond to inquiries and requests
+
+
+Process escrow-related submissions
+
+
+Communicate regarding services or transactions
+
+
+Maintain website security and functionality
+
+
+Comply with legal or regulatory obligations
+
+
+
+4) How we protect information
+Heading
+How we protect information
+
+
+Paragraph
+We take reasonable administrative and technical measures to protect personal information from unauthorized access, disclosure, or misuse. However, no method of transmission over the internet is completely secure.
+
+
+
+5) Sharing of information
+Heading
+Sharing of information
+
+
+Paragraph
+We do not sell personal information. Information may be shared with authorized parties involved in an escrow transaction or as required by law, regulation, or legal process.
+
+
+
+6) Cookies and tracking
+Heading
+Cookies and tracking
+
+
+Paragraph
+Our website may use basic cookies or similar technologies to support website functionality. We do not use cookies to collect sensitive personal information.
+
+
+(If analytics are used, add one line later once confirmed.)
+
+7) Third-party links
+Heading
+Third-party links
+
+
+Paragraph
+Our website may contain links to third-party websites. We are not responsible for the privacy practices or content of those websites.
+
+
+
+8) Data retention
+Heading
+Data retention
+
+
+Paragraph
+Information is retained only as long as necessary for escrow-related purposes or as required by applicable laws and regulations.
+
+
+
+9) Your choices
+Heading
+Your choices
+
+
+Paragraph
+You may contact us to update or correct your information. Certain information may be required to provide escrow services.
+
+
+
+10) Changes to this policy
+Heading
+Changes to this policy
+
+
+Paragraph
+We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised effective date.
+
+
+
+11) Contact information
+Heading
+Contact us
+
+
+Paragraph
+If you have questions about this Privacy Policy, contact us at:
+
+
+[Company Name]
+
+
+[Email Address]
+
+
+[Phone Number]
+
+
+
+Footer
+(Standard site footer)
+
+Notes for you (important)
+This is safe, generic, and non-risky.
+
+
+Do not mention GDPR/CCPA unless the client explicitly wants it.
+
+
+Do not promise encryption methods unless verified.
+
+
+
+
+
+PAGE 14 — TERMS OF USE
+This page protects the business.
+ Keep it neutral, non-aggressive, and enforceable.
+
+PAGE — Terms of Use
+URL
+/terms-of-use
+Page purpose
+Define acceptable use of the website, limit liability, and clarify that website content is informational only.
+
+SEO (for Stitch fields)
+Meta title: Terms of Use | [Company Name]
+
+
+Meta description: Review the terms governing use of the [Company Name] website and online services.
+
+
+OG title: Terms of Use | [Company Name]
+
+
+OG description: same as meta description
+
+
+
+1) Page header
+H1
+Terms of Use
+
+
+Effective date
+Effective Date: [Month Day, Year]
+
+
+Intro paragraph
+These Terms of Use govern your access to and use of the [Company Name] website. By accessing or using this website, you agree to be bound by these Terms.
+
+
+
+2) Website use
+Heading
+Use of this website
+
+
+Paragraph
+This website is provided for general informational purposes only. You may use the site for lawful purposes and in accordance with these Terms.
+
+
+Bullets
+Do not misuse or interfere with the website
+
+
+Do not attempt unauthorized access to systems or data
+
+
+Do not submit false or misleading information
+
+
+
+3) No legal or financial advice
+Heading
+No legal or financial advice
+
+
+Paragraph
+Content on this website does not constitute legal, financial, or professional advice. Escrow services are provided only pursuant to written escrow instructions and applicable agreements.
+
+
+
+4) Escrow services disclaimer
+Heading
+Escrow services
+
+
+Paragraph
+Submitting information through this website does not create an escrow relationship. An escrow relationship is established only after acceptance of written instructions and confirmation by [Company Name].
+
+
+
+5) Intellectual property
+Heading
+Intellectual property
+
+
+Paragraph
+All content on this website, including text, graphics, logos, and design elements, is the property of [Company Name] or its licensors and may not be reproduced without permission.
+
+
+
+6) Third-party links
+Heading
+Third-party links
+
+
+Paragraph
+This website may include links to third-party websites. [Company Name] is not responsible for the content or practices of third-party sites.
+
+
+
+7) Limitation of liability
+Heading
+Limitation of liability
+
+
+Paragraph
+To the fullest extent permitted by law, [Company Name] is not liable for damages arising from use of or inability to use this website.
+
+
+
+8) Indemnification
+Heading
+Indemnification
+
+
+Paragraph
+You agree to indemnify and hold harmless [Company Name] from claims arising out of your use of the website or violation of these Terms.
+
+
+
+9) Availability and changes
+Heading
+Website availability and changes
+
+
+Paragraph
+We may modify or discontinue this website or these Terms at any time without notice. Continued use of the website constitutes acceptance of updated Terms.
+
+
+
+10) Governing law
+Heading
+Governing law
+
+
+Paragraph
+These Terms are governed by the laws of the state in which [Company Name] operates, without regard to conflict-of-law principles.
+
+
+
+11) Contact information
+Heading
+Contact us
+
+
+Paragraph
+If you have questions about these Terms, contact us at:
+
+
+[Company Name]
+
+
+[Email Address]
+
+
+[Phone Number]
+
+
+
+Footer
+(Standard site footer)
+
