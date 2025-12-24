@@ -6,8 +6,7 @@ export default function Footer() {
       {/* Main Footer */}
       <div className="border-t border-white/10">
         <div className="container-custom py-14">
-          {/* Brand Section */}
-          <div className="mb-12 pb-12 border-b border-white/10">
+          <div className="mb-12 py-12 border-b border-white/10">
             <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
               <div>
                 <div className="flex items-center gap-3 mb-3">
@@ -221,7 +220,7 @@ export default function Footer() {
       {/* Bottom Bar */}
       <div className="border-t border-white/10 bg-[#081F2D]">
         <div className="container-custom py-6">
-          <div className="flex flex-col lg:flex-row justify-between items-center gap-4 text-center lg:text-left">
+          <div className="flex flex-col lg:flex-row py-2 justify-between items-center gap-4 text-center lg:text-left">
             <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4">
               <p className="text-gray-400 text-xs">
                 © {new Date().getFullYear()} First Haven Escrow. All Rights

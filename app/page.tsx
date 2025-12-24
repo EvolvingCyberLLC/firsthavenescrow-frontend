@@ -188,7 +188,7 @@ export default function Home() {
         {/* Hero Section */}
         <section className="bg-white">
           <div className="container-custom py-16 lg:py-24">
-            <div className="grid lg:grid-cols-2 gap-12 items-center">
+            <div className="grid lg:grid-cols-2 gap-12 py-16 items-center">
               <div>
                 <h1 className="heading-xl mb-6">
                   Escrow services built for smooth, on-time closings.
