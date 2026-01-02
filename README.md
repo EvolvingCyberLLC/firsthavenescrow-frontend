@@ -1,6 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Haven Escrow Website
+
+Professional escrow services website for residential and commercial transactions across Southern California.
+
+### Required Assets
+
+**Logo File**: Add your company logo as `/public/logo.png` (40x40px recommended, transparent background)
+
+### Getting Started
 
 First, run the development server:
 
