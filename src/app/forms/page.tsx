@@ -68,10 +68,10 @@ const submissionGuidance = [
 
 export default function FormsPage() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col overflow-x-hidden">
       <Header />
 
-      <main className="flex-grow">
+      <main className="flex-grow w-full overflow-x-hidden">
         {/* Page Header */}
         <PageHeader
           title="Forms & Downloads"
@@ -98,7 +98,7 @@ export default function FormsPage() {
         <section className="section-padding bg-[var(--light-gray)]">
           <div className="container-custom">
             <h2 className="heading-lg mb-8">Transaction-related forms</h2>
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {transactionForms.map((form, index) => (
                 <DownloadCard key={index} {...form} />
               ))}
@@ -110,7 +110,7 @@ export default function FormsPage() {
         <section className="section-padding bg-white">
           <div className="container-custom">
             <h2 className="heading-lg mb-8">Informational documents</h2>
-            <div className="grid md:grid-cols-2 gap-6 max-w-4xl">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {informationalDocuments.map((doc, index) => (
                 <DownloadCard key={index} {...doc} />
               ))}

@@ -30,11 +30,11 @@ export default function DownloadCard({
             />
           </svg>
         </div>
-        <div className="flex-1">
-          <h3 className="font-semibold text-[var(--navy)] mb-1">{title}</h3>
-          <p className="text-sm text-[var(--text-muted)] mb-3">{description}</p>
-          <div className="flex items-center justify-between">
-            <span className="text-xs text-[var(--text-muted)]">{fileName}</span>
+        <div className="flex-1 min-w-0">
+          <h3 className="font-semibold text-[var(--navy)] mb-1 break-words">{title}</h3>
+          <p className="text-sm text-[var(--text-muted)] mb-3 break-words">{description}</p>
+          <div className="flex items-center justify-between gap-2 flex-wrap">
+            <span className="text-xs text-[var(--text-muted)] break-all">{fileName}</span>
             <a
               href={fileUrl}
               download
