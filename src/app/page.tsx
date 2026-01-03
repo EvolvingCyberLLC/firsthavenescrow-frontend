@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
+import Image from "next/image";
 
 // Trust Bar Items
 const trustItems = [
@@ -211,35 +212,19 @@ export default function Home() {
                 </p>
               </div>
               <div className="relative">
-                <div className="bg-[var(--light-gray)] rounded-2xl overflow-hidden aspect-[4/3] relative">
-                  {/* Placeholder for hero image - professional office scene */}
-                  <div className="absolute inset-0 bg-gradient-to-br from-[var(--navy)]/5 to-[var(--gold)]/10"></div>
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <div className="text-center p-8">
-                      <div className="w-24 h-24 bg-[var(--gold)]/20 rounded-full flex items-center justify-center mx-auto mb-4">
-                        <svg
-                          className="w-12 h-12 text-[var(--gold)]"
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={1.5}
-                            d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"
-                          />
-                        </svg>
-                      </div>
-                      <p className="text-[var(--text-muted)] text-sm">
-                        Professional escrow services
-                      </p>
-                    </div>
-                  </div>
+                <div className="rounded-2xl overflow-hidden aspect-[4/3] relative shadow-xl">
+                  <Image
+                    src="/img1.jpg"
+                    alt="Professional escrow office - Haven Escrow team at work"
+                    fill
+                    className="object-cover"
+                    priority
+                    sizes="(max-width: 768px) 100vw, 50vw"
+                  />
                 </div>
                 {/* Decorative element */}
-                <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-[var(--gold)]/10 rounded-full -z-10"></div>
-                <div className="absolute -top-6 -right-6 w-24 h-24 bg-[var(--navy)]/5 rounded-full -z-10"></div>
+                <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-[var(--gold)]/10 rounded-full z-10"></div>
+                <div className="absolute -top-6 -right-6 w-24 h-24 bg-[var(--navy)]/5 rounded-full z-10"></div>
               </div>
             </div>
           </div>
