@@ -118,10 +118,10 @@ export default function ContactPage() {
                         Email
                       </h3>
                       <a
-                        href="mailto:contact@firsthaven.com"
+                        href="mailto:contact@havenescrow.com"
                         className="text-[var(--text-muted)] hover:text-[var(--gold)]"
                       >
-                        contact@firsthaven.com
+                        contact@havenescrow.com
                       </a>
                     </div>
                   </div>

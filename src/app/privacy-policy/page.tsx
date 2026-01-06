@@ -146,10 +146,10 @@ export default function PrivacyPolicyPage() {
                   </p>
                   <p>
                     <a
-                      href="mailto:contact@firsthaven.com"
+                      href="mailto:contact@havenescrow.com"
                       className="text-[var(--gold)] hover:underline"
                     >
-                      contact@firsthaven.com
+                      contact@havenescrow.com
                     </a>
                   </p>
                   <p>

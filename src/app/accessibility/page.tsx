@@ -103,10 +103,10 @@ export default function AccessibilityPage() {
                   <p>
                     <strong className="text-[var(--navy)]">Email:</strong>{" "}
                     <a
-                      href="mailto:contact@firsthaven.com"
+                      href="mailto:contact@havenescrow.com"
                       className="text-[var(--gold)] hover:underline"
                     >
-                      contact@firsthaven.com
+                      contact@havenescrow.com
                     </a>
                   </p>
                 </address>

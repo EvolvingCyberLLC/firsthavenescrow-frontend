@@ -362,11 +362,11 @@ export default function REOPage() {
               </h2>
               <p className="text-[var(--text-muted)] text-lg leading-relaxed">
                 REO transactions require a specialized approach that differs
-                significantly from standard residential sales. First Haven
-                Escrow acts as the neutral third party, coordinating strictly
-                with institutional sellers, asset managers, and buyers to ensure
-                all conditions of the bank-owned property sale are met
-                efficiently and within the required timelines.
+                significantly from standard residential sales. Haven Escrow acts
+                as the neutral third party, coordinating strictly with
+                institutional sellers, asset managers, and buyers to ensure all
+                conditions of the bank-owned property sale are met efficiently
+                and within the required timelines.
               </p>
             </div>
           </div>
@@ -507,11 +507,11 @@ export default function REOPage() {
           </div>
         </section>
 
-        {/* Why Use First Haven for REO Transactions */}
+        {/* Why Use  Haven for REO Transactions */}
         <section className="section-padding bg-white">
           <div className="container-custom">
             <h2 className="heading-lg text-center mb-12">
-              Why Use First Haven for REO Transactions?
+              Why Use Haven for REO Transactions?
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
               {whyChooseUs.map((item, index) => (

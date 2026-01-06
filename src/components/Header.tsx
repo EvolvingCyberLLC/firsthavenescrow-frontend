@@ -43,10 +43,10 @@ export default function Header() {
             </a>
             <span className="hidden sm:inline">|</span>
             <a
-              href="mailto:contact@firsthaven.com"
+              href="mailto:contact@havenescrow.com"
               className="hidden sm:block hover:text-[var(--gold)] transition-colors"
             >
-              contact@firsthaven.com
+              contact@havenescrow.com
             </a>
           </div>
         </div>

@@ -185,10 +185,10 @@ export default function Footer() {
                 </li>
                 <li>
                   <a
-                    href="mailto:contact@firsthaven.com"
+                    href="mailto:contact@havenescrow.com"
                     className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
                   >
-                    contact@firsthaven.com
+                    contact@havenescrow.com
                   </a>
                 </li>
                 <li>

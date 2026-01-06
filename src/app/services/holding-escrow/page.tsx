@@ -23,11 +23,11 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Holding Escrow | First Haven Escrow",
+  title: "Holding Escrow |  Haven Escrow",
   description:
     "Holding escrow services providing neutral custody of funds or documents until agreed-upon conditions are satisfied.",
   openGraph: {
-    title: "Holding Escrow | First Haven Escrow",
+    title: "Holding Escrow |  Haven Escrow",
     description:
       "Holding escrow services providing neutral custody of funds or documents until agreed-upon conditions are satisfied.",
   },
@@ -184,7 +184,7 @@ export default function HoldingEscrowPage() {
                 Holding Escrow
               </h1>
               <p className="text-lg text-gray-300 mb-8 leading-relaxed">
-                First Haven Escrow acts as a neutral third party to receive,
+                Haven Escrow acts as a neutral third party to receive,
                 safeguard, and release items based strictly on written
                 instructions. We ensure security and clarity for every
                 transaction.

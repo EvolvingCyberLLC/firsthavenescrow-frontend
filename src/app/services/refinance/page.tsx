@@ -99,10 +99,9 @@ export default function RefinanceServicePage() {
               <h1 className="heading-xl mb-6">Refinance Escrow</h1>
               <p className="text-lg text-[var(--text-muted)] mb-8">
                 Refinance escrow helps ensure that lender requirements are
-                satisfied before loan funds are disbursed and recorded. At First
-                Haven Escrow, we coordinate the refinance process with lenders
-                and borrowers to keep documentation, timing, and funding
-                aligned.
+                satisfied before loan funds are disbursed and recorded. At Haven
+                Escrow, we coordinate the refinance process with lenders and
+                borrowers to keep documentation, timing, and funding aligned.
               </p>
               <Link href="/open-escrow" className="btn-primary">
                 Open Escrow
