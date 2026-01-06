@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
+import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -64,12 +65,25 @@ export default function FeesPage() {
       <Header />
 
       <main className="flex-grow">
-        {/* Page Header */}
-        <section className="bg-[var(--light-gray)] py-16 lg:py-20">
-          <div className="container-custom">
+        {/* Hero Section */}
+        <section className="relative min-h-[50vh]">
+          <Image
+            src="/fees.jpg"
+            alt="Haven Escrow Fees"
+            fill
+            className="object-cover"
+            priority
+          />
+          <div
+            className="absolute inset-0"
+            style={{ backgroundColor: "rgba(11, 44, 61, 0.7)" }}
+          />
+          <div className="container-custom relative z-10 py-20 min-h-[50vh] flex items-center">
             <div className="max-w-3xl">
-              <h1 className="heading-xl mb-6">Escrow Fees</h1>
-              <p className="text-lg text-[var(--text-muted)]">
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
+                Escrow Fees
+              </h1>
+              <p className="text-xl text-gray-200">
                 We believe in transparent pricing. Below you&apos;ll find
                 general information about our fee structure. For specific quotes
                 based on your transaction, contact our team.
@@ -113,6 +127,20 @@ export default function FeesPage() {
               location, and other factors. Additional charges may apply for rush
               orders, mobile notary services, or special handling requirements.
             </p>
+          </div>
+        </section>
+
+        {/* Image Section */}
+        <section className="py-12 bg-white">
+          <div className="container-custom">
+            <div className="relative h-[300px] md:h-[400px] rounded-2xl overflow-hidden">
+              <Image
+                src="/fees2.jpg"
+                alt="Haven Escrow Office"
+                fill
+                className="object-cover"
+              />
+            </div>
           </div>
         </section>
 

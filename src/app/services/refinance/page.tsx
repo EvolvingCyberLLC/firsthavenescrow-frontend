@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
+import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -92,12 +93,25 @@ export default function RefinanceServicePage() {
       <Header />
 
       <main className="flex-grow">
-        {/* Page Header */}
-        <section className="bg-[var(--light-gray)] py-16 lg:py-20">
-          <div className="container-custom">
+        {/* Hero Section */}
+        <section className="relative min-h-[50vh]">
+          <Image
+            src="/refinance.jpg"
+            alt="Refinance Escrow Services"
+            fill
+            className="object-cover"
+            priority
+          />
+          <div
+            className="absolute inset-0"
+            style={{ backgroundColor: "rgba(11, 44, 61, 0.7)" }}
+          />
+          <div className="container-custom relative z-10 py-20 min-h-[50vh] flex items-center">
             <div className="max-w-3xl">
-              <h1 className="heading-xl mb-6">Refinance Escrow</h1>
-              <p className="text-lg text-[var(--text-muted)] mb-8">
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
+                Refinance Escrow
+              </h1>
+              <p className="text-xl text-gray-200 mb-8">
                 Refinance escrow helps ensure that lender requirements are
                 satisfied before loan funds are disbursed and recorded. At Haven
                 Escrow, we coordinate the refinance process with lenders and

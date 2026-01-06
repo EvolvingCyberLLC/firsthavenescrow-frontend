@@ -1,6 +1,6 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import PageHeader from "@/components/PageHeader";
+import Image from "next/image";
 import NoticeBox from "@/components/NoticeBox";
 import DownloadCard from "@/components/DownloadCard";
 import BulletList from "@/components/BulletList";
@@ -72,11 +72,33 @@ export default function FormsPage() {
       <Header />
 
       <main className="flex-grow w-full overflow-x-hidden">
-        {/* Page Header */}
-        <PageHeader
-          title="Forms & Downloads"
-          description="Below are commonly requested forms and informational documents. Availability and requirements may vary by transaction. If you're unsure which form applies, contact our team for guidance."
-        />
+        {/* Hero Section */}
+        <section className="relative min-h-[50vh]">
+          <Image
+            src="/forms.jpg"
+            alt="Haven Escrow Forms"
+            fill
+            className="object-cover"
+            priority
+          />
+          <div
+            className="absolute inset-0"
+            style={{ backgroundColor: "rgba(11, 44, 61, 0.7)" }}
+          />
+          <div className="container-custom relative z-10 py-20 min-h-[50vh] flex items-center">
+            <div className="max-w-3xl">
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
+                Forms & Downloads
+              </h1>
+              <p className="text-xl text-gray-200">
+                Below are commonly requested forms and informational documents.
+                Availability and requirements may vary by transaction. If
+                you&apos;re unsure which form applies, contact our team for
+                guidance.
+              </p>
+            </div>
+          </div>
+        </section>
 
         {/* Important Notice */}
         <section className="section-padding bg-white">

@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
+import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -116,12 +117,25 @@ export default function AboutPage() {
       <Header />
 
       <main className="flex-grow">
-        {/* Page Header */}
-        <section className="bg-[var(--light-gray)] py-16 lg:py-20">
-          <div className="container-custom">
+        {/* Hero Section */}
+        <section className="relative min-h-[50vh]">
+          <Image
+            src="/about.jpg"
+            alt="About Haven Escrow"
+            fill
+            className="object-cover"
+            priority
+          />
+          <div
+            className="absolute inset-0"
+            style={{ backgroundColor: "rgba(11, 44, 61, 0.7)" }}
+          />
+          <div className="container-custom relative z-10 py-20 min-h-[50vh] flex items-center">
             <div className="max-w-3xl">
-              <h1 className="heading-xl mb-6">About Haven Escrow</h1>
-              <p className="text-lg text-[var(--text-muted)]">
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
+                About Haven Escrow
+              </h1>
+              <p className="text-xl text-gray-200">
                 Haven Escrow is an independent escrow company serving clients
                 across Southern California. We provide escrow services for
                 residential, commercial, and specialty transactions, acting as a
@@ -152,110 +166,120 @@ export default function AboutPage() {
                   escrow is bundled with other services.
                 </p>
               </div>
-              <div className="bg-[var(--light-gray)] rounded-2xl p-8">
-                <h3 className="heading-sm mb-4">Our service area</h3>
-                <p className="text-[var(--text-muted)] mb-4">
-                  We serve clients throughout Southern California, including:
-                </p>
-                <ul className="grid grid-cols-2 gap-2 text-[var(--text-dark)]">
-                  <li className="flex items-center gap-2">
-                    <svg
-                      className="w-4 h-4 text-[var(--gold)]"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M5 13l4 4L19 7"
-                      />
-                    </svg>
-                    Los Angeles County
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <svg
-                      className="w-4 h-4 text-[var(--gold)]"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M5 13l4 4L19 7"
-                      />
-                    </svg>
-                    Orange County
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <svg
-                      className="w-4 h-4 text-[var(--gold)]"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M5 13l4 4L19 7"
-                      />
-                    </svg>
-                    Riverside County
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <svg
-                      className="w-4 h-4 text-[var(--gold)]"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M5 13l4 4L19 7"
-                      />
-                    </svg>
-                    San Bernardino County
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <svg
-                      className="w-4 h-4 text-[var(--gold)]"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M5 13l4 4L19 7"
-                      />
-                    </svg>
-                    Ventura County
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <svg
-                      className="w-4 h-4 text-[var(--gold)]"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M5 13l4 4L19 7"
-                      />
-                    </svg>
-                    San Diego County
-                  </li>
-                </ul>
+              <div className="relative h-[400px] rounded-2xl overflow-hidden">
+                <Image
+                  src="/about2.jpg"
+                  alt="Haven Escrow Team"
+                  fill
+                  className="object-cover"
+                />
               </div>
+            </div>
+
+            {/* Service Area */}
+            <div className="mt-12 bg-[var(--light-gray)] rounded-2xl p-8">
+              <h3 className="heading-sm mb-4">Our service area</h3>
+              <p className="text-[var(--text-muted)] mb-4">
+                We serve clients throughout Southern California, including:
+              </p>
+              <ul className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 text-[var(--text-dark)]">
+                <li className="flex items-center gap-2">
+                  <svg
+                    className="w-4 h-4 text-[var(--gold)]"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M5 13l4 4L19 7"
+                    />
+                  </svg>
+                  Los Angeles County
+                </li>
+                <li className="flex items-center gap-2">
+                  <svg
+                    className="w-4 h-4 text-[var(--gold)]"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M5 13l4 4L19 7"
+                    />
+                  </svg>
+                  Orange County
+                </li>
+                <li className="flex items-center gap-2">
+                  <svg
+                    className="w-4 h-4 text-[var(--gold)]"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M5 13l4 4L19 7"
+                    />
+                  </svg>
+                  Riverside County
+                </li>
+                <li className="flex items-center gap-2">
+                  <svg
+                    className="w-4 h-4 text-[var(--gold)]"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M5 13l4 4L19 7"
+                    />
+                  </svg>
+                  San Bernardino County
+                </li>
+                <li className="flex items-center gap-2">
+                  <svg
+                    className="w-4 h-4 text-[var(--gold)]"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M5 13l4 4L19 7"
+                    />
+                  </svg>
+                  Ventura County
+                </li>
+                <li className="flex items-center gap-2">
+                  <svg
+                    className="w-4 h-4 text-[var(--gold)]"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M5 13l4 4L19 7"
+                    />
+                  </svg>
+                  San Diego County
+                </li>
+              </ul>
             </div>
           </div>
         </section>
