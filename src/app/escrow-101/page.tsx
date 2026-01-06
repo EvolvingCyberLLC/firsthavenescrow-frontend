@@ -1,7 +1,23 @@
+import { Metadata } from "next";
+import Link from "next/link";
+import Image from "next/image";
+import {
+  HiOutlineUser,
+  HiOutlineHome,
+  HiOutlineShieldCheck,
+  HiOutlineBuildingLibrary,
+  HiOutlineUserGroup,
+  HiOutlineScale,
+  HiOutlineCheckCircle,
+  HiOutlineXCircle,
+  HiOutlineChatBubbleLeftRight,
+  HiOutlineExclamationTriangle,
+  HiOutlineDocumentText,
+  HiOutlineArrowDownTray,
+} from "react-icons/hi2";
+import { FaCheckCircle, FaTimesCircle } from "react-icons/fa";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import Link from "next/link";
-import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Escrow 101 | Haven Escrow",
@@ -9,442 +25,392 @@ export const metadata: Metadata = {
     "Learn how the escrow process works from opening to closing. Understand the steps, parties involved, and what to expect during your real estate transaction.",
 };
 
-const escrowSteps = [
+// Why Escrow is Used
+const whyEscrowUsed = [
   {
-    number: 1,
-    title: "Opening Escrow",
-    description:
-      "Escrow begins when the buyer and seller have an accepted purchase agreement. The escrow company receives the agreement and opens a file, assigning an escrow number and escrow officer to your transaction.",
-    details: [
-      "Escrow instructions are prepared based on the purchase agreement",
-      "Earnest money deposit is collected from the buyer",
-      "Preliminary title report is ordered",
-      "All parties receive confirmation of escrow opening",
-    ],
+    icon: <HiOutlineCheckCircle className="w-6 h-6" />,
+    title: "Ensure Conditions Met",
+    description: "Holds funds and documents until all terms are satisfied.",
   },
   {
-    number: 2,
-    title: "Document Collection & Title Review",
-    description:
-      "The escrow officer coordinates the collection of required documents and reviews the preliminary title report to identify any issues that need to be resolved.",
-    details: [
-      "Preliminary title report is reviewed for liens, encumbrances, and ownership",
-      "Any title issues are identified and addressed",
-      "Lender requirements are tracked (if financing)",
-      "Buyer and seller information is verified",
-    ],
+    icon: <HiOutlineShieldCheck className="w-6 h-6" />,
+    title: "Neutral Handling",
+    description: "Unbiased third party protects the interests of all sides.",
   },
   {
-    number: 3,
-    title: "Contingency Period",
-    description:
-      "During the contingency period, the buyer typically completes inspections, appraisal (if financed), and other due diligence. The escrow officer tracks contingency removal dates and coordinates any amendments.",
-    details: [
-      "Inspection reports are reviewed",
-      "Appraisal is completed (if applicable)",
-      "Repair requests and credits are negotiated",
-      "Contingencies are removed according to the agreement",
-    ],
+    icon: <HiOutlineChatBubbleLeftRight className="w-6 h-6" />,
+    title: "Coordinate Comms",
+    description: "Acts as a central hub for all transaction details.",
   },
   {
-    number: 4,
-    title: "Final Document Preparation",
-    description:
-      "As the closing date approaches, final documents are prepared. The lender sends loan documents (if applicable), and the escrow officer prepares closing statements showing all debits, credits, and prorations.",
-    details: [
-      "Loan documents are received and reviewed",
-      "Closing statements are prepared",
-      "Final figures are calculated including prorations",
-      "Signing appointments are scheduled",
-    ],
-  },
-  {
-    number: 5,
-    title: "Signing",
-    description:
-      "Both parties sign their respective documents. The buyer typically signs loan documents and the deed of trust, while the seller signs the grant deed and other transfer documents.",
-    details: [
-      "Signatures are notarized where required",
-      "Documents are reviewed for completeness",
-      "Any outstanding conditions are confirmed",
-      "Final funds due from buyer are confirmed",
-    ],
-  },
-  {
-    number: 6,
-    title: "Funding & Recording",
-    description:
-      "Once all conditions are met and documents are signed, the lender funds the loan (if applicable). The escrow company then coordinates recording of the deed with the county recorder's office.",
-    details: [
-      "Lender wire funds to escrow",
-      "All conditions are verified as satisfied",
-      "Documents are sent for recording",
-      "Recording confirmation is received",
-    ],
-  },
-  {
-    number: 7,
-    title: "Closing & Disbursement",
-    description:
-      "After recording, escrow is officially closed. Funds are disbursed according to the escrow instructions, and all parties receive their final closing statements and documents.",
-    details: [
-      "Seller proceeds are disbursed",
-      "Agent commissions are paid",
-      "Liens and payoffs are satisfied",
-      "Final closing packages are sent to all parties",
-    ],
+    icon: <HiOutlineScale className="w-6 h-6" />,
+    title: "Reduce Risk",
+    description: "Protects against fraud and non-performance.",
   },
 ];
 
+// Parties Involved
 const partiesInvolved = [
   {
+    icon: <HiOutlineUser className="w-6 h-6" />,
+    title: "Buyer",
+    active: false,
+  },
+  {
+    icon: <HiOutlineHome className="w-6 h-6" />,
+    title: "Seller",
+    active: false,
+  },
+  {
+    icon: <HiOutlineShieldCheck className="w-6 h-6" />,
     title: "Escrow Company",
-    description:
-      "Acts as a neutral third party, holding funds and documents until all conditions of the transaction are met.",
-    responsibilities: [
-      "Prepares and processes escrow instructions",
-      "Coordinates document signing",
-      "Manages funds disbursement",
-      "Coordinates recording",
-    ],
+    active: true,
   },
   {
-    title: "Title Company",
-    description:
-      "Researches property ownership history and issues title insurance to protect against title defects.",
-    responsibilities: [
-      "Issues preliminary title report",
-      "Resolves title issues",
-      "Issues title insurance policy",
-      "Facilitates recording",
-    ],
-  },
-  {
-    title: "Lender (if financed)",
-    description:
-      "Provides financing for the buyer and requires certain conditions to be met before funding.",
-    responsibilities: [
-      "Orders appraisal",
-      "Underwrites the loan",
-      "Prepares loan documents",
-      "Funds the loan",
-    ],
-  },
-  {
+    icon: <HiOutlineUserGroup className="w-6 h-6" />,
     title: "Real Estate Agents",
-    description:
-      "Represent the buyer and/or seller and coordinate many aspects of the transaction.",
-    responsibilities: [
-      "Negotiate terms",
-      "Coordinate inspections",
-      "Communicate with parties",
-      "Ensure timeline adherence",
-    ],
+    active: false,
   },
+  {
+    icon: <HiOutlineBuildingLibrary className="w-6 h-6" />,
+    title: "Lenders",
+    active: false,
+  },
+  {
+    icon: <HiOutlineScale className="w-6 h-6" />,
+    title: "Attorneys",
+    active: false,
+  },
+];
+
+// Escrow Steps
+const escrowSteps = [
+  {
+    number: 1,
+    title: "Open Escrow",
+    description:
+      "The purchase agreement is signed, and the initial deposit is placed into the escrow account. A file is opened.",
+  },
+  {
+    number: 2,
+    title: "Confirm Instructions",
+    description:
+      "Escrow officer prepares detailed escrow instructions supplementing the purchase agreement for all parties to sign.",
+  },
+  {
+    number: 3,
+    title: "Document Coordination",
+    description:
+      "Preliminary title reports, seller disclosures, and loan documents are ordered, received, and reviewed.",
+  },
+  {
+    number: 4,
+    title: "Condition Tracking",
+    description:
+      "Escrow monitors the file to ensure contingencies (inspections, appraisal) are removed by the agreed deadlines.",
+  },
+  {
+    number: 5,
+    title: "Funding Preparation",
+    description:
+      "Buyer signs loan docs, lender sends funds to escrow. Buyer deposits remaining down payment and closing costs.",
+  },
+  {
+    number: 6,
+    title: "Closing",
+    description:
+      "Deed is recorded with the county. Funds are disbursed to the seller and other parties. Keys are transferred!",
+  },
+];
+
+// Common Items Handled
+const commonItemsHandled = [
+  "Purchase agreements and counter offers",
+  "Disclosure statements and reports",
+  "Earnest money deposits and closing funds",
+  "Grant deeds and recording documentation",
+  "Notarized signatures on key documents",
+];
+
+// What Escrow Does NOT Do
+const whatEscrowDoesNot = [
+  "Offer legal advice or tax counsel",
+  "Negotiate transaction terms or prices",
+  "Represent one party against another",
+  "Approve or deny the loan (that's the lender)",
 ];
 
 export default function Escrow101Page() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <>
       <Header />
+      <main className="min-h-screen">
+        {/* Hero Section with Background Image */}
+        <section className="relative min-h-[400px] md:min-h-[450px] ">
+          {/* Background Image */}
+          <Image
+            src="/img11.jpg"
+            alt="Escrow 101 - How Escrow Works"
+            fill
+            className="object-cover"
+            priority
+          />
+          {/* Navy Gradient Overlay - 100% to 50% from left to right */}
+          <div
+            className="absolute inset-0"
+            style={{
+              background:
+                "linear-gradient(to right, rgba(11, 44, 61, 1) 0%, rgba(11, 44, 61, 0.5) 100%)",
+            }}
+          />
 
-      <main className="flex-grow">
-        {/* Page Header */}
-        <section className="bg-[var(--light-gray)] py-16 lg:py-20">
-          <div className="container-custom">
-            <div className="max-w-3xl">
-              <h1 className="heading-xl mb-6">Escrow 101</h1>
-              <p className="text-lg text-[var(--text-muted)]">
-                Understanding the escrow process can help make your real estate
-                transaction smoother. This guide explains what escrow is, how it
-                works, and what to expect from opening to closing.
+          <div className="container-custom relative z-10 text-white py-16 flex items-center h-[400px]">
+            <div className="max-w-xl">
+              <h1 className="text-4xl md:text-5xl font-bold mb-6">
+                Escrow 101: How Escrow Works
+              </h1>
+              <p className="text-lg text-gray-300 leading-relaxed">
+                A simple guide to understanding the escrow process, designed to
+                give you clarity and peace of mind during your transaction.
               </p>
             </div>
           </div>
         </section>
 
-        {/* What is Escrow */}
-        <section className="section-padding bg-white">
+        {/* What is Escrow + Why Escrow is Used */}
+        <section className="py-20 bg-white">
           <div className="container-custom">
-            <div className="max-w-3xl mx-auto">
-              <h2 className="heading-lg mb-6">What is escrow?</h2>
-              <p className="text-[var(--text-muted)] mb-6">
-                Escrow is a financial and legal arrangement where a neutral
-                third party temporarily holds money, documents, and other items
-                on behalf of two parties involved in a transaction. The escrow
-                company ensures that neither party receives what they&apos;re
-                owed until all conditions of the agreement have been met.
-              </p>
-              <p className="text-[var(--text-muted)] mb-6">
-                In real estate, escrow protects both the buyer and seller by
-                ensuring that:
-              </p>
-              <ul className="space-y-3 mb-6">
-                <li className="flex items-start gap-3">
-                  <svg
-                    className="w-5 h-5 text-[var(--gold)] flex-shrink-0 mt-0.5"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  <span className="text-[var(--text-dark)]">
-                    The buyer&apos;s funds are held securely until all
-                    conditions are satisfied
-                  </span>
-                </li>
-                <li className="flex items-start gap-3">
-                  <svg
-                    className="w-5 h-5 text-[var(--gold)] flex-shrink-0 mt-0.5"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  <span className="text-[var(--text-dark)]">
-                    The seller&apos;s property isn&apos;t transferred until
-                    payment is confirmed
-                  </span>
-                </li>
-                <li className="flex items-start gap-3">
-                  <svg
-                    className="w-5 h-5 text-[var(--gold)] flex-shrink-0 mt-0.5"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  <span className="text-[var(--text-dark)]">
-                    All documents are properly executed and recorded
-                  </span>
-                </li>
-                <li className="flex items-start gap-3">
-                  <svg
-                    className="w-5 h-5 text-[var(--gold)] flex-shrink-0 mt-0.5"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M5 13l4 4L19 7"
-                    />
-                  </svg>
-                  <span className="text-[var(--text-dark)]">
-                    Funds are disbursed according to the agreed-upon terms
-                  </span>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
-        {/* The Escrow Process */}
-        <section className="section-padding bg-[var(--light-gray)]">
-          <div className="container-custom">
-            <div className="text-center mb-12">
-              <h2 className="heading-lg mb-4">The escrow process</h2>
-              <p className="text-[var(--text-muted)] max-w-2xl mx-auto">
-                Here&apos;s a step-by-step overview of what happens during a
-                typical escrow transaction.
-              </p>
-            </div>
-
-            <div className="max-w-4xl mx-auto space-y-8">
-              {escrowSteps.map((step, index) => (
-                <div key={index} className="bg-white rounded-xl p-8">
-                  <div className="flex items-start gap-6">
-                    <div className="w-12 h-12 bg-[var(--navy)] text-white rounded-full flex items-center justify-center text-xl font-bold flex-shrink-0">
-                      {step.number}
-                    </div>
-                    <div className="flex-1">
-                      <h3 className="heading-sm mb-3">{step.title}</h3>
-                      <p className="text-[var(--text-muted)] mb-4">
-                        {step.description}
-                      </p>
-                      <ul className="grid sm:grid-cols-2 gap-2">
-                        {step.details.map((detail, idx) => (
-                          <li
-                            key={idx}
-                            className="flex items-start gap-2 text-sm"
-                          >
-                            <svg
-                              className="w-4 h-4 text-[var(--gold)] flex-shrink-0 mt-0.5"
-                              fill="none"
-                              stroke="currentColor"
-                              viewBox="0 0 24 24"
-                            >
-                              <path
-                                strokeLinecap="round"
-                                strokeLinejoin="round"
-                                strokeWidth={2}
-                                d="M9 5l7 7-7 7"
-                              />
-                            </svg>
-                            <span className="text-[var(--text-dark)]">
-                              {detail}
-                            </span>
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* Parties Involved */}
-        <section className="section-padding bg-white">
-          <div className="container-custom">
-            <div className="text-center mb-12">
-              <h2 className="heading-lg mb-4">Parties involved in escrow</h2>
-              <p className="text-[var(--text-muted)] max-w-2xl mx-auto">
-                Multiple parties work together to ensure a successful closing.
-                Here&apos;s who does what.
-              </p>
-            </div>
-
-            <div className="grid md:grid-cols-2 gap-6 max-w-5xl mx-auto">
-              {partiesInvolved.map((party, index) => (
-                <div
-                  key={index}
-                  className="bg-[var(--light-gray)] rounded-xl p-6"
-                >
-                  <h3 className="font-semibold text-[var(--navy)] mb-2">
-                    {party.title}
-                  </h3>
-                  <p className="text-sm text-[var(--text-muted)] mb-4">
-                    {party.description}
+            <div className="grid lg:grid-cols-2 gap-12">
+              {/* Left - What is Escrow */}
+              <div>
+                <span className="text-gold text-sm font-semibold uppercase tracking-wide mb-2 block">
+                  Definition
+                </span>
+                <h2 className="text-3xl md:text-4xl font-bold text-navy mb-6">
+                  What is Escrow?
+                </h2>
+                <p className="text-text-muted mb-6 leading-relaxed">
+                  Escrow is a legal arrangement where a third party holds money
+                  or property until a particular condition has been met (such as
+                  the fulfillment of a purchase agreement).
+                </p>
+                <div className="bg-light-gray rounded-lg p-5 border-l-4 border-gold">
+                  <p className="text-text-muted text-sm">
+                    <strong className="text-navy">Key Point:</strong> Ideally,
+                    the escrow holder is a neutral third party who ensures that
+                    everyone follows the rules and conditions laid out in the
+                    contract.
                   </p>
-                  <ul className="space-y-2">
-                    {party.responsibilities.map((resp, idx) => (
-                      <li key={idx} className="flex items-center gap-2 text-sm">
-                        <svg
-                          className="w-4 h-4 text-[var(--gold)]"
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M5 13l4 4L19 7"
-                          />
-                        </svg>
-                        <span className="text-[var(--text-dark)]">{resp}</span>
-                      </li>
-                    ))}
-                  </ul>
                 </div>
-              ))}
-            </div>
-          </div>
-        </section>
+              </div>
 
-        {/* Timeline Note */}
-        <section className="py-16 bg-[var(--light-gray)]">
-          <div className="container-custom">
-            <div className="bg-white rounded-2xl p-8 max-w-3xl mx-auto">
-              <h2 className="heading-md mb-4">How long does escrow take?</h2>
-              <p className="text-[var(--text-muted)] mb-4">
-                The typical escrow period for a residential transaction is 30 to
-                45 days, though this can vary based on several factors:
-              </p>
-              <div className="grid sm:grid-cols-2 gap-4">
-                <div>
-                  <h3 className="font-semibold text-[var(--navy)] mb-2">
-                    May close faster:
-                  </h3>
-                  <ul className="text-sm text-[var(--text-muted)] space-y-1">
-                    <li>• Cash transactions</li>
-                    <li>• All parties responsive</li>
-                    <li>• Clean title</li>
-                    <li>• No repair negotiations</li>
-                  </ul>
-                </div>
-                <div>
-                  <h3 className="font-semibold text-[var(--navy)] mb-2">
-                    May take longer:
-                  </h3>
-                  <ul className="text-sm text-[var(--text-muted)] space-y-1">
-                    <li>• Complex financing</li>
-                    <li>• Title issues to resolve</li>
-                    <li>• Extensive repairs needed</li>
-                    <li>• Multiple contingencies</li>
-                  </ul>
+              {/* Right - Why Escrow is Used */}
+              <div>
+                <h2 className="text-2xl font-bold text-navy mb-6">
+                  Why Escrow is Used
+                </h2>
+                <div className="grid sm:grid-cols-2 gap-4">
+                  {whyEscrowUsed.map((item, index) => (
+                    <div key={index} className="bg-light-gray rounded-lg p-5">
+                      <div className="text-gold mb-3">{item.icon}</div>
+                      <h3 className="font-bold text-navy mb-1">{item.title}</h3>
+                      <p className="text-text-muted text-sm">
+                        {item.description}
+                      </p>
+                    </div>
+                  ))}
                 </div>
               </div>
             </div>
           </div>
         </section>
 
-        {/* Related Resources */}
-        <section className="section-padding bg-white">
-          <div className="container-custom text-center">
-            <h2 className="heading-lg mb-8">Continue learning</h2>
-            <div className="flex flex-wrap justify-center gap-4">
-              <Link href="/faq" className="btn-outline">
-                View FAQ
-              </Link>
-              <Link href="/glossary" className="btn-outline">
-                Escrow Glossary
-              </Link>
-              <Link href="/services" className="btn-outline">
-                Our Services
-              </Link>
+        {/* Parties Commonly Involved */}
+        <section className="py-20 bg-light-gray">
+          <div className="container-custom">
+            <div className="text-center mb-12">
+              <h2 className="text-3xl md:text-4xl font-bold text-navy mb-4">
+                Parties Commonly Involved
+              </h2>
+              <p className="text-text-muted max-w-2xl mx-auto">
+                Understanding who plays a role in your escrow transaction helps
+                clarify communication lines.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-4 max-w-4xl mx-auto">
+              {partiesInvolved.map((party, index) => (
+                <div
+                  key={index}
+                  className={`rounded-xl p-5 text-center ${
+                    party.active
+                      ? "bg-gold text-navy"
+                      : "bg-white border border-border-color"
+                  }`}
+                >
+                  <div
+                    className={`mb-3 flex justify-center ${
+                      party.active ? "text-navy" : "text-navy"
+                    }`}
+                  >
+                    {party.icon}
+                  </div>
+                  <h3
+                    className={`text-sm font-semibold ${
+                      party.active ? "text-navy" : "text-navy"
+                    }`}
+                  >
+                    {party.title}
+                  </h3>
+                </div>
+              ))}
             </div>
           </div>
         </section>
 
-        {/* Final CTA */}
-        <section className="bg-[var(--navy)] py-16">
+        {/* Step-by-Step: Life of an Escrow */}
+        <section className="py-20 bg-white">
+          <div className="container-custom">
+            <div className="flex flex-wrap justify-between items-center mb-12 gap-4">
+              <div>
+                <h2 className="text-3xl md:text-4xl font-bold text-navy mb-2">
+                  Step-by-Step: Life of an Escrow
+                </h2>
+                <p className="text-text-muted">
+                  From opening to closing, here is the standard journey.
+                </p>
+              </div>
+              <Link
+                href="/forms"
+                className="inline-flex items-center gap-2 text-gold font-semibold hover:underline"
+              >
+                <HiOutlineArrowDownTray className="w-5 h-5" />
+                Download Guide
+              </Link>
+            </div>
+
+            <div className="grid md:grid-cols-3 gap-6">
+              {escrowSteps.map((step, index) => (
+                <div key={index} className="bg-light-gray rounded-xl p-6">
+                  <div className="flex items-center gap-3 mb-4">
+                    <span
+                      className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${
+                        step.number === 6
+                          ? "bg-gold text-navy"
+                          : "bg-navy text-white"
+                      }`}
+                    >
+                      {step.number}
+                    </span>
+                    <h3 className="font-bold text-navy">{step.title}</h3>
+                  </div>
+                  <p className="text-text-muted text-sm">{step.description}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Common Items Handled + What Escrow Does NOT Do */}
+        <section className="py-20 bg-light-gray">
+          <div className="container-custom">
+            <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+              {/* Common Items Handled */}
+              <div className="bg-white rounded-xl p-8">
+                <div className="flex items-center gap-3 mb-6">
+                  <HiOutlineDocumentText className="w-6 h-6 text-gold" />
+                  <h2 className="text-xl font-bold text-navy">
+                    Common Items Handled
+                  </h2>
+                </div>
+                <ul className="space-y-4">
+                  {commonItemsHandled.map((item, index) => (
+                    <li key={index} className="flex items-start gap-3">
+                      <FaCheckCircle className="w-5 h-5 text-gold flex-shrink-0 mt-0.5" />
+                      <span className="text-text-muted">{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              {/* What Escrow Does NOT Do */}
+              <div className="bg-white rounded-xl p-8">
+                <div className="flex items-center gap-3 mb-6">
+                  <HiOutlineXCircle className="w-6 h-6 text-navy" />
+                  <h2 className="text-xl font-bold text-navy">
+                    What Escrow Does NOT Do
+                  </h2>
+                </div>
+                <ul className="space-y-4">
+                  {whatEscrowDoesNot.map((item, index) => (
+                    <li key={index} className="flex items-start gap-3">
+                      <FaTimesCircle className="w-5 h-5 text-red-500 flex-shrink-0 mt-0.5" />
+                      <span className="text-text-muted">{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Security and Wire Fraud Awareness */}
+        <section className="py-20 bg-navy text-white">
+          <div className="container-custom">
+            <div className="max-w-4xl mx-auto">
+              <div className="flex items-start gap-4 mb-8">
+                <HiOutlineExclamationTriangle className="w-10 h-10 text-gold flex-shrink-0" />
+                <div>
+                  <h2 className="text-2xl md:text-3xl font-bold mb-4">
+                    Security and Wire Fraud Awareness
+                  </h2>
+                  <p className="text-gray-300">
+                    Wire fraud is a serious threat in real estate transactions.
+                    Criminals may attempt to impersonate escrow officers to
+                    steal funds. Protect yourself:
+                  </p>
+                </div>
+              </div>
+
+              <div className="grid md:grid-cols-2 gap-4">
+                <div className="bg-gold/20 rounded-lg p-5 border border-gold/30">
+                  <p className="text-white">
+                    <strong className="text-gold">ALWAYS</strong> verify wiring
+                    instructions by phone with a known number.
+                  </p>
+                </div>
+                <div className="bg-white/10 rounded-lg p-5">
+                  <p className="text-gray-300">
+                    <strong className="text-gold">NEVER</strong> rely solely on
+                    email or text for changing wiring instructions.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* CTA Section */}
+        <section className="py-20 bg-white">
           <div className="container-custom text-center">
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-              Ready to open escrow?
+            <h2 className="text-3xl md:text-4xl font-bold text-navy mb-4">
+              Have questions about escrow?
             </h2>
-            <p className="text-gray-300 mb-8 max-w-xl mx-auto">
-              Now that you understand the process, start your transaction with
-              confidence.
+            <p className="text-text-muted max-w-xl mx-auto mb-8">
+              We are here to guide you through every step of the process.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
+              <Link href="/contact" className="btn-outline">
+                Contact Us
+              </Link>
               <Link href="/open-escrow" className="btn-primary">
                 Open Escrow
-              </Link>
-              <Link
-                href="/contact"
-                className="bg-transparent border-2 border-white text-white px-6 py-3 rounded-md font-semibold hover:bg-white hover:text-[var(--navy)] transition-colors"
-              >
-                Contact Us
               </Link>
             </div>
           </div>
         </section>
       </main>
-
       <Footer />
-    </div>
+    </>
   );
 }
