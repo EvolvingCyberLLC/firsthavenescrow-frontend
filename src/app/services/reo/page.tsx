@@ -335,8 +335,8 @@ export default function REOPage() {
               </h1>
               <p className="text-lg text-gray-200 mb-8 leading-relaxed">
                 Specialized escrow services for Real Estate Owned transactions,
-                ensuring strict compliance, efficiency, and neutrality for lenders and
-                buyers.
+                ensuring strict compliance, efficiency, and neutrality for
+                lenders and buyers.
               </p>
               <div className="flex flex-wrap gap-4">
                 <Link href="/open-escrow" className="btn-primary">
@@ -361,10 +361,12 @@ export default function REOPage() {
                 Professional Coordination for Complex Transactions
               </h2>
               <p className="text-[var(--text-muted)] text-lg leading-relaxed">
-                REO transactions require a specialized approach that differs significantly from standard residential sales. 
-                First Haven Escrow acts as the neutral third party, coordinating strictly with institutional sellers, asset 
-                managers, and buyers to ensure all conditions of the bank-owned property sale are met efficiently and within 
-                the required timelines.
+                REO transactions require a specialized approach that differs
+                significantly from standard residential sales. First Haven
+                Escrow acts as the neutral third party, coordinating strictly
+                with institutional sellers, asset managers, and buyers to ensure
+                all conditions of the bank-owned property sale are met
+                efficiently and within the required timelines.
               </p>
             </div>
           </div>
@@ -373,7 +375,9 @@ export default function REOPage() {
         {/* Who This Service Is For */}
         <section className="section-padding bg-[var(--light-gray)]">
           <div className="container-custom">
-            <h2 className="heading-lg text-center mb-12">Who This Service Is For</h2>
+            <h2 className="heading-lg text-center mb-12">
+              Who This Service Is For
+            </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
               {whoIsForItems.map((item, index) => (
                 <div
@@ -402,8 +406,9 @@ export default function REOPage() {
                   What Escrow Handles in an REO Transaction
                 </h2>
                 <p className="text-[var(--text-muted)] mb-8">
-                  Our team is experienced in the specific nuances of bank-owned sales. We
-                  handle the heavy lifting to ensure a smooth closing process.
+                  Our team is experienced in the specific nuances of bank-owned
+                  sales. We handle the heavy lifting to ensure a smooth closing
+                  process.
                 </p>
                 <ul className="space-y-4">
                   {whatWeHandle.map((item, index) => (
@@ -449,8 +454,8 @@ export default function REOPage() {
                 REO Transaction Considerations
               </h2>
               <p className="text-gray-300 max-w-2xl mx-auto">
-                Understanding the unique characteristics of REO deals helps manage expectations and
-                ensures a smoother process.
+                Understanding the unique characteristics of REO deals helps
+                manage expectations and ensures a smoother process.
               </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
@@ -467,7 +472,9 @@ export default function REOPage() {
                       <h3 className="font-semibold text-white mb-2">
                         {item.title}
                       </h3>
-                      <p className="text-sm text-gray-300">{item.description}</p>
+                      <p className="text-sm text-gray-300">
+                        {item.description}
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -537,8 +544,8 @@ export default function REOPage() {
                 Partner with the REO Experts
               </h2>
               <p className="text-gray-300 mb-8">
-                Reliable, efficient, and secure escrow services for your bank-owned property
-                transactions.
+                Reliable, efficient, and secure escrow services for your
+                bank-owned property transactions.
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <Link href="/open-escrow" className="btn-primary">
