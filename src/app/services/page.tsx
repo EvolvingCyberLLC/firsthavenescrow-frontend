@@ -18,7 +18,7 @@ import {
 export const metadata: Metadata = {
   title: "Escrow Services | Haven Escrow",
   description:
-    "Residential, refinance, commercial, and specialty escrow services across Southern California. View transaction types or open escrow online.",
+    "Residential, refinance, commercial, and specialty escrow services across  California. View transaction types or open escrow online.",
 };
 
 const coreServices = [

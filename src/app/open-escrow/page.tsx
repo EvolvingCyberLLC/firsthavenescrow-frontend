@@ -556,8 +556,8 @@ export default function OpenEscrowPage() {
               we&apos;ll be happy to help.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <a href="tel:2135550123" className="btn-secondary">
-                Call (213) 555-0123
+              <a href="tel:7147868912" className="btn-secondary">
+                Call (714) 786-8912
               </a>
               <Link href="/contact" className="btn-outline">
                 Contact Us

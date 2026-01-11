@@ -18,7 +18,7 @@ export default function Footer() {
                 />
                 <p className="text-gray-300 text-sm max-w-md">
                   Professional escrow services for residential and commercial
-                  transactions across Southern California.
+                  transactions across California.
                 </p>
               </div>
               <div className="flex items-center gap-5">
@@ -177,25 +177,25 @@ export default function Footer() {
               <ul className="space-y-2.5">
                 <li>
                   <a
-                    href="tel:2135550123"
+                    href="tel:7147868912"
                     className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
                   >
-                    (213) 555-0123
+                    (714) 786-8912
                   </a>
                 </li>
                 <li>
                   <a
-                    href="mailto:contact@havenescrow.com"
+                    href="mailto:order@havenescrow.com"
                     className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
                   >
-                    contact@havenescrow.com
+                    order@havenescrow.com
                   </a>
                 </li>
                 <li>
                   <address className="text-gray-300 text-sm not-italic leading-relaxed">
-                    1234 Escrow Lane, Suite 500
+                    6301 Beach Blvd Suite 204
                     <br />
-                    Los Angeles, CA 90012
+                    Buena Park, CA 90621
                   </address>
                 </li>
               </ul>

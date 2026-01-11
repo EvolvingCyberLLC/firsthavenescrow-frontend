@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Haven Escrow | Escrow Services in Southern California",
+  title: "Haven Escrow | Escrow Services in  California",
   description:
-    "Secure, responsive escrow services for residential, refinance, and commercial transactions across Southern California. Open escrow online or contact our team today.",
+    "Secure, responsive escrow services for residential, refinance, and commercial transactions across  California. Open escrow online or contact our team today.",
 };
 
 export default function RootLayout({

@@ -23,7 +23,7 @@ const faqs = [
   {
     question: "Who pays escrow fees?",
     answer:
-      "The allocation of escrow fees is typically determined by the purchase agreement and local custom. In Southern California, it's common for buyers and sellers to each pay their own escrow fees, though this can be negotiated. For refinances, the borrower typically pays escrow fees as part of closing costs.",
+      "The allocation of escrow fees is typically determined by the purchase agreement and local custom. In  California, it's common for buyers and sellers to each pay their own escrow fees, though this can be negotiated. For refinances, the borrower typically pays escrow fees as part of closing costs.",
   },
   {
     question: "What do I need to bring to signing?",
@@ -138,8 +138,8 @@ export default function FAQPage() {
               <Link href="/contact" className="btn-primary">
                 Contact Us
               </Link>
-              <a href="tel:2135550123" className="btn-outline">
-                Call (213) 555-0123
+              <a href="tel:7147868912" className="btn-outline">
+                Call (714) 786-8912
               </a>
             </div>
           </div>

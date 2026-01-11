@@ -81,7 +81,7 @@ const trustItems = [
         />
       </svg>
     ),
-    title: "Serving Southern California with local expertise",
+    title: "Serving  California with local expertise",
   },
 ];
 
@@ -202,8 +202,8 @@ export default function Home() {
                   <Link href="/open-escrow" className="btn-primary">
                     Open Escrow
                   </Link>
-                  <a href="tel:2135550123" className="btn-outline">
-                    Call (213) 555-0123
+                  <a href="tel:7147868912" className="btn-outline">
+                    Call (714) 786-8912
                   </a>
                 </div>
                 <p className="text-sm text-[var(--text-muted)]">
@@ -475,9 +475,9 @@ export default function Home() {
                 <h3 className="heading-md mb-6">Los Angeles Office</h3>
                 <div className="space-y-4 mb-8">
                   <p className="text-[var(--text-dark)]">
-                    1234 Escrow Lane, Suite 500
+                    6301 Beach Blvd Suite 204
                     <br />
-                    Los Angeles, CA 90012
+                    Buena Park, CA 90621
                   </p>
                   <div>
                     <p className="text-sm text-[var(--text-muted)]">Hours:</p>
@@ -488,19 +488,19 @@ export default function Home() {
                   <div>
                     <p className="text-sm text-[var(--text-muted)]">Phone:</p>
                     <a
-                      href="tel:2135550123"
+                      href="tel:7147868912"
                       className="text-[var(--text-dark)] hover:text-[var(--gold)]"
                     >
-                      (213) 555-0123
+                      (714) 786-8912
                     </a>
                   </div>
                   <div>
                     <p className="text-sm text-[var(--text-muted)]">Email:</p>
                     <a
-                      href="mailto:contact@havenescrow.com"
+                      href="mailto:order@havenescrow.com"
                       className="text-[var(--text-dark)] hover:text-[var(--gold)]"
                     >
-                      contact@havenescrow.com
+                      order@havenescrow.com
                     </a>
                   </div>
                 </div>
@@ -532,10 +532,10 @@ export default function Home() {
                 Open Escrow
               </Link>
               <a
-                href="tel:2135550123"
+                href="tel:7147868912"
                 className="bg-transparent border-2 border-white text-white px-6 py-3 rounded-md font-semibold hover:bg-white hover:text-[var(--navy)] transition-colors"
               >
-                Call (213) 555-0123
+                Call (714) 786-8912
               </a>
             </div>
           </div>

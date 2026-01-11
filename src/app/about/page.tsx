@@ -7,7 +7,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About Us | Haven Escrow",
   description:
-    "Learn about Haven Escrow, our approach to escrow, and how we support residential and commercial transactions across Southern California.",
+    "Learn about Haven Escrow, our approach to escrow, and how we support residential and commercial transactions across  California.",
 };
 
 const teamMembers = [
@@ -137,9 +137,9 @@ export default function AboutPage() {
               </h1>
               <p className="text-xl text-gray-200">
                 Haven Escrow is an independent escrow company serving clients
-                across Southern California. We provide escrow services for
-                residential, commercial, and specialty transactions, acting as a
-                neutral third party to help ensure each transaction is completed
+                across California. We provide escrow services for residential,
+                commercial, and specialty transactions, acting as a neutral
+                third party to help ensure each transaction is completed
                 according to written instructions.
               </p>
             </div>
@@ -180,7 +180,7 @@ export default function AboutPage() {
             <div className="mt-12 bg-[var(--light-gray)] rounded-2xl p-8">
               <h3 className="heading-sm mb-4">Our service area</h3>
               <p className="text-[var(--text-muted)] mb-4">
-                We serve clients throughout Southern California, including:
+                We serve clients throughout California, including:
               </p>
               <ul className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 text-[var(--text-dark)]">
                 <li className="flex items-center gap-2">

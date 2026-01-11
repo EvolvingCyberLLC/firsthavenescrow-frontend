@@ -94,19 +94,19 @@ export default function AccessibilityPage() {
                   <p>
                     <strong className="text-[var(--navy)]">Phone:</strong>{" "}
                     <a
-                      href="tel:2135550123"
+                      href="tel:7147868912"
                       className="text-[var(--gold)] hover:underline"
                     >
-                      (213) 555-0123
+                      (714) 786-8912
                     </a>
                   </p>
                   <p>
                     <strong className="text-[var(--navy)]">Email:</strong>{" "}
                     <a
-                      href="mailto:contact@havenescrow.com"
+                      href="mailto:order@havenescrow.com"
                       className="text-[var(--gold)] hover:underline"
                     >
-                      contact@havenescrow.com
+                      order@havenescrow.com
                     </a>
                   </p>
                 </address>

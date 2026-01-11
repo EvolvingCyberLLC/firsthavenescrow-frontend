@@ -27,7 +27,7 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   title: "Residential Escrow Services | Haven Escrow",
   description:
-    "Professional residential escrow services for home purchases and sales in Southern California. Clear communication, secure handling, and on-time closings.",
+    "Professional residential escrow services for home purchases and sales in  California. Clear communication, secure handling, and on-time closings.",
 };
 
 // Who This Service Is For
@@ -159,7 +159,7 @@ const faqs = [
   {
     question: "Who pays the escrow fees?",
     answer:
-      "This is typically determined by the purchase agreement and local custom. In Southern California, it's common for buyers and sellers to each pay their own escrow fees.",
+      "This is typically determined by the purchase agreement and local custom. In  California, it's common for buyers and sellers to each pay their own escrow fees.",
   },
   {
     question: "What happens if we need to close early or late?",

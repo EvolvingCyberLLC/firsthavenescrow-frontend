@@ -21,11 +21,11 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   title: "Commercial Escrow Services | Haven Escrow",
   description:
-    "Commercial escrow services for business and investment properties in Southern California. Clear coordination, secure handling, and structured closings.",
+    "Commercial escrow services for business and investment properties in  California. Clear coordination, secure handling, and structured closings.",
   openGraph: {
     title: "Commercial Escrow Services | Haven Escrow",
     description:
-      "Commercial escrow services for investment and business properties in Southern California. Structured coordination, clear communication, and secure handling.",
+      "Commercial escrow services for investment and business properties in  California. Structured coordination, clear communication, and secure handling.",
   },
 };
 

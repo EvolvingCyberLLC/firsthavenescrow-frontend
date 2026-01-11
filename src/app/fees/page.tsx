@@ -225,7 +225,7 @@ export default function FeesPage() {
                 <div className="space-y-6">
                   <div>
                     <h3 className="font-semibold text-[var(--navy)] mb-2">
-                      In Southern California
+                      In California
                     </h3>
                     <p className="text-[var(--text-muted)]">
                       It&apos;s common for buyers and sellers to each pay their
@@ -270,8 +270,8 @@ export default function FeesPage() {
               <Link href="/contact" className="btn-primary">
                 Request a Quote
               </Link>
-              <a href="tel:2135550123" className="btn-outline">
-                Call (213) 555-0123
+              <a href="tel:7147868912" className="btn-outline">
+                Call (714) 786-8912
               </a>
             </div>
           </div>

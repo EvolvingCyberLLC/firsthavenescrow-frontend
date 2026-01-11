@@ -7,11 +7,11 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Refinance Escrow Services | Haven Escrow",
   description:
-    "Refinance escrow services for residential properties in Southern California. Clear coordination with lenders, secure handling, and structured closings.",
+    "Refinance escrow services for residential properties in  California. Clear coordination with lenders, secure handling, and structured closings.",
   openGraph: {
     title: "Refinance Escrow Services | Haven Escrow",
     description:
-      "Refinance escrow services for residential properties in Southern California. Clear coordination with lenders, secure handling, and structured closings.",
+      "Refinance escrow services for residential properties in  California. Clear coordination with lenders, secure handling, and structured closings.",
   },
 };
 

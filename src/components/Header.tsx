@@ -33,20 +33,20 @@ export default function Header() {
       {/* Top Bar */}
       <div className="bg-[var(--navy)] text-white text-sm py-2">
         <div className="container-custom flex justify-between items-center">
-          <span className="hidden sm:block">Serving Southern California</span>
+          <span className="hidden sm:block">Serving California</span>
           <div className="flex items-center gap-4 ml-auto">
             <a
-              href="tel:2135550123"
+              href="tel:7147868912"
               className="hover:text-[var(--gold)] transition-colors"
             >
-              (213) 555-0123
+              (714) 786-8912
             </a>
             <span className="hidden sm:inline">|</span>
             <a
-              href="mailto:contact@havenescrow.com"
+              href="mailto:order@havenescrow.com"
               className="hidden sm:block hover:text-[var(--gold)] transition-colors"
             >
-              contact@havenescrow.com
+              order@havenescrow.com
             </a>
           </div>
         </div>

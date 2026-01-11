@@ -89,10 +89,10 @@ export default function ContactPage() {
                         Phone
                       </h3>
                       <a
-                        href="tel:2135550123"
+                        href="tel:7147868912"
                         className="text-[var(--text-muted)] hover:text-[var(--gold)]"
                       >
-                        (213) 555-0123
+                        (714) 786-8912
                       </a>
                     </div>
                   </div>
@@ -118,10 +118,10 @@ export default function ContactPage() {
                         Email
                       </h3>
                       <a
-                        href="mailto:contact@havenescrow.com"
+                        href="mailto:order@havenescrow.com"
                         className="text-[var(--text-muted)] hover:text-[var(--gold)]"
                       >
-                        contact@havenescrow.com
+                        order@havenescrow.com
                       </a>
                     </div>
                   </div>
@@ -168,9 +168,9 @@ export default function ContactPage() {
                       Los Angeles Office
                     </p>
                     <p className="text-[var(--text-muted)]">
-                      1234 Escrow Lane, Suite 500
+                      6301 Beach Blvd Suite 204
                       <br />
-                      Los Angeles, CA 90012
+                      Buena Park, CA 90621
                     </p>
                     <a
                       href="#"
