@@ -8,29 +8,19 @@ interface LogoProps {
   textClassName?: string;
 }
 
-export default function Logo({
-  className = "",
-  linkToHome = true,
-  showText = true,
-  textClassName = "",
-}: LogoProps) {
+export default function Logo({ className = "", linkToHome = true }: LogoProps) {
   const logoContent = (
     <div className={`flex items-center gap-2 ${className}`}>
-      <div className="relative w-10 h-10">
+      <div className="relative w-32">
         <Image
           src="/logo.png"
           alt="Haven Escrow Logo"
-          width={40}
-          height={40}
+          width={666}
+          height={128}
           className="object-contain"
           priority
         />
       </div>
-      {showText && (
-        <span className={`text-xl font-bold ${textClassName || "text-navy"}`}>
-          Haven Escrow
-        </span>
-      )}
     </div>
   );
 
