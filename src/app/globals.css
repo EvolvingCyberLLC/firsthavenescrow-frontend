@@ -2,13 +2,13 @@
 
 :root {
   /* Escrow Color Palette */
-  --navy: #0b2c3d;
+  --navy: #000000;
   --white: #ffffff;
-  --light-gray: #f2f4f6;
-  --gold: #c9a24d;
-  --gold-hover: #b8923e;
-  --navy-light: #1a4a63;
-  --text-dark: #1a1a1a;
+  --light-gray: #ffecec;
+  --gold: #f2312f;
+  --gold-hover: #d92b2a;
+  --navy-light: #333333;
+  --text-dark: #000000;
   --text-muted: #6b7280;
   --border-color: #e5e7eb;
 }

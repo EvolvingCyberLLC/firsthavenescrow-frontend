@@ -3,20 +3,20 @@ import Logo from "@/components/Logo";
 
 export default function Footer() {
   return (
-    <footer className="bg-[var(--navy)] text-white">
+    <footer className="bg-white text-[var(--navy)]">
       {/* Main Footer */}
-      <div className="border-t border-white/10">
+      <div className="border-t border-gray-200">
         <div className="container-custom py-14">
-          <div className="mb-12 py-12 border-b border-white/10">
+          <div className="mb-12 py-12 border-b border-gray-200">
             <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
               <div>
                 <Logo
                   linkToHome={true}
                   showText={true}
-                  textClassName="text-white"
+                  textClassName="text-[var(--navy)]"
                   className="mb-3"
                 />
-                <p className="text-gray-300 text-sm max-w-md">
+                <p className="text-gray-600 text-sm max-w-md">
                   Professional escrow services for residential and commercial
                   transactions across California.
                 </p>
@@ -24,11 +24,11 @@ export default function Footer() {
               <div className="flex items-center gap-5">
                 <a
                   href="#"
-                  className="w-10 h-10 rounded-full bg-white/5 hover:bg-[var(--gold)] flex items-center justify-center transition-all duration-200 group"
+                  className="w-10 h-10 rounded-full bg-gray-100 hover:bg-[var(--gold)] flex items-center justify-center transition-all duration-200 group"
                   aria-label="Facebook"
                 >
                   <svg
-                    className="w-5 h-5 text-gray-300 group-hover:text-[var(--navy)] transition-colors"
+                    className="w-5 h-5 text-gray-600 group-hover:text-white transition-colors"
                     fill="currentColor"
                     viewBox="0 0 24 24"
                   >
@@ -37,11 +37,11 @@ export default function Footer() {
                 </a>
                 <a
                   href="#"
-                  className="w-10 h-10 rounded-full bg-white/5 hover:bg-[var(--gold)] flex items-center justify-center transition-all duration-200 group"
+                  className="w-10 h-10 rounded-full bg-gray-100 hover:bg-[var(--gold)] flex items-center justify-center transition-all duration-200 group"
                   aria-label="LinkedIn"
                 >
                   <svg
-                    className="w-5 h-5 text-gray-300 group-hover:text-[var(--navy)] transition-colors"
+                    className="w-5 h-5 text-gray-600 group-hover:text-white transition-colors"
                     fill="currentColor"
                     viewBox="0 0 24 24"
                   >
@@ -56,14 +56,14 @@ export default function Footer() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-12">
             {/* Company */}
             <div>
-              <h3 className="text-base font-semibold mb-4 text-white tracking-wide">
+              <h3 className="text-base font-semibold mb-4 text-[var(--navy)] tracking-wide">
                 Company
               </h3>
               <ul className="space-y-2.5">
                 <li>
                   <Link
                     href="/about"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     About Us
                   </Link>
@@ -71,7 +71,7 @@ export default function Footer() {
                 <li>
                   <Link
                     href="/services"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     Services
                   </Link>
@@ -79,7 +79,7 @@ export default function Footer() {
                 <li>
                   <Link
                     href="/contact"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     Contact
                   </Link>
@@ -87,7 +87,7 @@ export default function Footer() {
                 <li>
                   <Link
                     href="/careers"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     Careers
                   </Link>
@@ -97,14 +97,14 @@ export default function Footer() {
 
             {/* Resources */}
             <div>
-              <h3 className="text-base font-semibold mb-4 text-white tracking-wide">
+              <h3 className="text-base font-semibold mb-4 text-[var(--navy)] tracking-wide">
                 Resources
               </h3>
               <ul className="space-y-2.5">
                 <li>
                   <Link
                     href="/faq"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     FAQ
                   </Link>
@@ -112,7 +112,7 @@ export default function Footer() {
                 <li>
                   <Link
                     href="/escrow-101"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     Escrow 101
                   </Link>
@@ -120,7 +120,7 @@ export default function Footer() {
                 <li>
                   <Link
                     href="/forms"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     Forms & Downloads
                   </Link>
@@ -128,7 +128,7 @@ export default function Footer() {
                 <li>
                   <Link
                     href="/glossary"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     Glossary
                   </Link>
@@ -138,14 +138,14 @@ export default function Footer() {
 
             {/* Legal */}
             <div>
-              <h3 className="text-base font-semibold mb-4 text-white tracking-wide">
+              <h3 className="text-base font-semibold mb-4 text-[var(--navy)] tracking-wide">
                 Legal
               </h3>
               <ul className="space-y-2.5">
                 <li>
                   <Link
                     href="/privacy-policy"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     Privacy Policy
                   </Link>
@@ -153,7 +153,7 @@ export default function Footer() {
                 <li>
                   <Link
                     href="/terms-of-use"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     Terms of Use
                   </Link>
@@ -161,7 +161,7 @@ export default function Footer() {
                 <li>
                   <Link
                     href="/accessibility"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     Accessibility
                   </Link>
@@ -171,14 +171,14 @@ export default function Footer() {
 
             {/* Contact */}
             <div>
-              <h3 className="text-base font-semibold mb-4 text-white tracking-wide">
+              <h3 className="text-base font-semibold mb-4 text-[var(--navy)] tracking-wide">
                 Contact
               </h3>
               <ul className="space-y-2.5">
                 <li>
                   <a
                     href="tel:7147868912"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     (714) 786-8912
                   </a>
@@ -186,13 +186,13 @@ export default function Footer() {
                 <li>
                   <a
                     href="mailto:order@havenescrow.com"
-                    className="text-gray-300 hover:text-white text-sm transition-colors inline-block"
+                    className="text-gray-600 hover:text-[var(--gold)] text-sm transition-colors inline-block"
                   >
                     order@havenescrow.com
                   </a>
                 </li>
                 <li>
-                  <address className="text-gray-300 text-sm not-italic leading-relaxed">
+                  <address className="text-gray-600 text-sm not-italic leading-relaxed">
                     6301 Beach Blvd Suite 204
                     <br />
                     Buena Park, CA 90621
@@ -205,20 +205,20 @@ export default function Footer() {
       </div>
 
       {/* Bottom Bar */}
-      <div className="border-t border-white/10 bg-[#081F2D]">
+      <div className="border-t border-gray-200 bg-gray-50">
         <div className="container-custom py-6">
           <div className="flex flex-col lg:flex-row py-2 justify-between items-center gap-4 text-center lg:text-left">
             <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4">
-              <p className="text-gray-400 text-xs">
+              <p className="text-gray-500 text-xs">
                 © {new Date().getFullYear()} Haven Escrow. All Rights Reserved.
               </p>
-              <span className="hidden sm:inline text-gray-600">|</span>
-              <p className="text-gray-400 text-xs">
+              <span className="hidden sm:inline text-gray-300">|</span>
+              <p className="text-gray-500 text-xs">
                 Licensed by the California Department of Financial Protection
                 and Innovation
               </p>
             </div>
-            <p className="text-gray-500 text-xs">NMLS ID: 123456</p>
+            <p className="text-gray-400 text-xs">NMLS ID: 123456</p>
           </div>
         </div>
       </div>

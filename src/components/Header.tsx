@@ -20,7 +20,6 @@ const resources = [
   { name: "Escrow 101", href: "/escrow-101" },
   { name: "Forms & Downloads", href: "/forms" },
   { name: "Open Order Forms", href: "/resources/open-order-forms" },
-  { name: "Glossary", href: "/glossary" },
 ];
 
 export default function Header() {

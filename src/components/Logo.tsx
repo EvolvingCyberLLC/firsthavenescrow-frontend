@@ -15,7 +15,7 @@ export default function Logo({ className = "", linkToHome = true }: LogoProps) {
         <Image
           src="/logo.png"
           alt="Haven Escrow Logo"
-          width={666}
+          width={128}
           height={128}
           className="object-contain"
           priority
