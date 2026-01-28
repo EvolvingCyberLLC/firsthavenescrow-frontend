@@ -26,6 +26,8 @@ export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [servicesOpen, setServicesOpen] = useState(false);
   const [resourcesOpen, setResourcesOpen] = useState(false);
+  const [mobileServicesOpen, setMobileServicesOpen] = useState(false);
+  const [mobileResourcesOpen, setMobileResourcesOpen] = useState(false);
 
   return (
     <>
@@ -231,24 +233,92 @@ export default function Header() {
                 <Link href="/" className="text-[var(--text-dark)] font-medium">
                   Home
                 </Link>
-                <Link
-                  href="/services"
-                  className="text-[var(--text-dark)] font-medium"
-                >
-                  Services
-                </Link>
+
+                {/* Mobile Services Dropdown */}
+                <div>
+                  <button
+                    onClick={() => setMobileServicesOpen(!mobileServicesOpen)}
+                    className="flex items-center justify-between w-full text-[var(--text-dark)] font-medium"
+                  >
+                    <span>Services</span>
+                    <svg
+                      className={`w-4 h-4 transition-transform ${mobileServicesOpen ? "rotate-180" : ""}`}
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M19 9l-7 7-7-7"
+                      />
+                    </svg>
+                  </button>
+                  {mobileServicesOpen && (
+                    <div className="mt-2 ml-4 flex flex-col gap-2">
+                      <Link
+                        href="/services"
+                        className="text-[var(--text-dark)] text-sm hover:text-[var(--gold)]"
+                      >
+                        All Services
+                      </Link>
+                      {services.map((service) => (
+                        <Link
+                          key={service.href}
+                          href={service.href}
+                          className="text-[var(--text-dark)] text-sm hover:text-[var(--gold)]"
+                        >
+                          {service.name}
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                </div>
+
                 <Link
                   href="/fees"
                   className="text-[var(--text-dark)] font-medium"
                 >
                   Fees
                 </Link>
-                <Link
-                  href="/faq"
-                  className="text-[var(--text-dark)] font-medium"
-                >
-                  FAQ
-                </Link>
+
+                {/* Mobile Resources Dropdown */}
+                <div>
+                  <button
+                    onClick={() => setMobileResourcesOpen(!mobileResourcesOpen)}
+                    className="flex items-center justify-between w-full text-[var(--text-dark)] font-medium"
+                  >
+                    <span>Resources</span>
+                    <svg
+                      className={`w-4 h-4 transition-transform ${mobileResourcesOpen ? "rotate-180" : ""}`}
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M19 9l-7 7-7-7"
+                      />
+                    </svg>
+                  </button>
+                  {mobileResourcesOpen && (
+                    <div className="mt-2 ml-4 flex flex-col gap-2">
+                      {resources.map((resource) => (
+                        <Link
+                          key={resource.href}
+                          href={resource.href}
+                          className="text-[var(--text-dark)] text-sm hover:text-[var(--gold)]"
+                        >
+                          {resource.name}
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                </div>
+
                 <Link
                   href="/about"
                   className="text-[var(--text-dark)] font-medium"
