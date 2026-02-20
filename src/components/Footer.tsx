@@ -218,7 +218,7 @@ export default function Footer() {
                 and Innovation
               </p>
             </div>
-            <p className="text-gray-400 text-xs">NMLS ID: 123456</p>
+            <p className="text-gray-400 text-xs">NMLS ID: 9631913</p>
           </div>
         </div>
       </div>
