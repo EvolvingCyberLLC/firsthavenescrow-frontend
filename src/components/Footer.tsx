@@ -215,7 +215,7 @@ export default function Footer() {
               <span className="hidden sm:inline text-gray-300">|</span>
               <p className="text-gray-500 text-xs">
                 Licensed by the California Department of Financial Protection
-                and Innovation1
+                and Innovation
               </p>
             </div>
             <p className="text-gray-400 text-xs">NMLS ID: 9631913</p>
